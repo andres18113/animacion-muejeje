@@ -1,0 +1,706 @@
+{
+  "audio_duration_secs": 19.6,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Soy Grubby, Grub Legacy. Mi primera etapa está instalada en el MBR y localiza una etapa intermedia llamada Stage uno punto cinco. Esta comprende el sistema de archivos EXT-2 y abre el camino hacia Stage dos. Allí leo mi configuración y selecciono el núcleo de Linux que voy a cargar",
+  "transcription_id": "aLm9R90tAFWMCbL5XZSl",
+  "words": [
+    {
+      "end": 0.24,
+      "logprob": -0.0001091897502192296,
+      "start": 0.1,
+      "text": "Soy",
+      "type": "word"
+    },
+    {
+      "end": 0.32,
+      "logprob": -0.3688955903053284,
+      "start": 0.24,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.64,
+      "logprob": -0.21846261370228603,
+      "start": 0.32,
+      "text": "Grubby,",
+      "type": "word"
+    },
+    {
+      "end": 1.06,
+      "logprob": -0.04708249121904373,
+      "start": 0.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.28,
+      "logprob": -0.04708249121904373,
+      "start": 1.06,
+      "text": "Grub",
+      "type": "word"
+    },
+    {
+      "end": 1.38,
+      "logprob": -0.014183782041072844,
+      "start": 1.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.78,
+      "logprob": -0.012166025130552174,
+      "start": 1.38,
+      "text": "Legacy.",
+      "type": "word"
+    },
+    {
+      "end": 2.34,
+      "logprob": -0.00002014616620726883,
+      "start": 1.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.46,
+      "logprob": -0.00002014616620726883,
+      "start": 2.34,
+      "text": "Mi",
+      "type": "word"
+    },
+    {
+      "end": 2.48,
+      "logprob": -0.00002276871418871451,
+      "start": 2.46,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.74,
+      "logprob": -0.00002276871418871451,
+      "start": 2.48,
+      "text": "primera",
+      "type": "word"
+    },
+    {
+      "end": 2.78,
+      "logprob": -0.00001966933996300213,
+      "start": 2.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.14,
+      "logprob": -0.00001966933996300213,
+      "start": 2.78,
+      "text": "etapa",
+      "type": "word"
+    },
+    {
+      "end": 3.18,
+      "logprob": -0.000005602820692729438,
+      "start": 3.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.4,
+      "logprob": -0.000005602820692729438,
+      "start": 3.18,
+      "text": "está",
+      "type": "word"
+    },
+    {
+      "end": 3.42,
+      "logprob": -0.0002818902430590242,
+      "start": 3.4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.9,
+      "logprob": -0.00018792682870601615,
+      "start": 3.42,
+      "text": "instalada",
+      "type": "word"
+    },
+    {
+      "end": 3.92,
+      "logprob": 0,
+      "start": 3.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4,
+      "logprob": 0,
+      "start": 3.92,
+      "text": "en",
+      "type": "word"
+    },
+    {
+      "end": 4.04,
+      "logprob": -0.0000010728830375228426,
+      "start": 4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.24,
+      "logprob": -0.0000010728830375228426,
+      "start": 4.059,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 4.4,
+      "logprob": -0.00005245071224635467,
+      "start": 4.24,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5,
+      "logprob": -0.000965476741839666,
+      "start": 4.4,
+      "text": "MBR",
+      "type": "word"
+    },
+    {
+      "end": 5.36,
+      "logprob": -0.00020632999076042324,
+      "start": 5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.4,
+      "logprob": -0.00020632999076042324,
+      "start": 5.36,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 5.46,
+      "logprob": -0.00005793403761344962,
+      "start": 5.4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.9,
+      "logprob": -0.00003634288393783436,
+      "start": 5.46,
+      "text": "localiza",
+      "type": "word"
+    },
+    {
+      "end": 5.94,
+      "logprob": -0.0000023841830625315197,
+      "start": 5.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.02,
+      "logprob": -0.0000023841830625315197,
+      "start": 5.94,
+      "text": "una",
+      "type": "word"
+    },
+    {
+      "end": 6.06,
+      "logprob": -0.000008940656698541716,
+      "start": 6.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.36,
+      "logprob": -0.000008940656698541716,
+      "start": 6.06,
+      "text": "etapa",
+      "type": "word"
+    },
+    {
+      "end": 6.4,
+      "logprob": -0.0004820853646378964,
+      "start": 6.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.98,
+      "logprob": -0.0004820853646378964,
+      "start": 6.4,
+      "text": "intermedia",
+      "type": "word"
+    },
+    {
+      "end": 7.2,
+      "logprob": -0.00868625845760107,
+      "start": 6.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.62,
+      "logprob": -0.00868625845760107,
+      "start": 7.2,
+      "text": "llamada",
+      "type": "word"
+    },
+    {
+      "end": 7.8,
+      "logprob": -0.013613127171993256,
+      "start": 7.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.16,
+      "logprob": -0.013613127171993256,
+      "start": 7.86,
+      "text": "Stage",
+      "type": "word"
+    },
+    {
+      "end": 8.4,
+      "logprob": -0.004986350424587727,
+      "start": 8.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.54,
+      "logprob": -0.004986350424587727,
+      "start": 8.4,
+      "text": "uno",
+      "type": "word"
+    },
+    {
+      "end": 8.64,
+      "logprob": -0.000821014866232872,
+      "start": 8.54,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.88,
+      "logprob": -0.000821014866232872,
+      "start": 8.64,
+      "text": "punto",
+      "type": "word"
+    },
+    {
+      "end": 8.98,
+      "logprob": -0.000028013790142722428,
+      "start": 8.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.32,
+      "logprob": -0.00002437796911181067,
+      "start": 8.98,
+      "text": "cinco.",
+      "type": "word"
+    },
+    {
+      "end": 9.9,
+      "logprob": -0.00007617183291586116,
+      "start": 9.32,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.1,
+      "logprob": -0.00007617183291586116,
+      "start": 9.9,
+      "text": "Esta",
+      "type": "word"
+    },
+    {
+      "end": 10.12,
+      "logprob": -0.00006592056161025539,
+      "start": 10.1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.5,
+      "logprob": -0.00006592056161025539,
+      "start": 10.12,
+      "text": "comprende",
+      "type": "word"
+    },
+    {
+      "end": 10.54,
+      "logprob": -2.384185506798531e-7,
+      "start": 10.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.58,
+      "logprob": -2.384185506798531e-7,
+      "start": 10.54,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 10.64,
+      "logprob": -0.000005722029527532868,
+      "start": 10.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11,
+      "logprob": -0.000005722029527532868,
+      "start": 10.64,
+      "text": "sistema",
+      "type": "word"
+    },
+    {
+      "end": 11.04,
+      "logprob": 0,
+      "start": 11,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.08,
+      "logprob": 0,
+      "start": 11.04,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 11.1,
+      "logprob": -0.0000907141511561349,
+      "start": 11.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.54,
+      "logprob": -0.0000907141511561349,
+      "start": 11.1,
+      "text": "archivos",
+      "type": "word"
+    },
+    {
+      "end": 11.74,
+      "logprob": -0.17614030838012695,
+      "start": 11.54,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.62,
+      "logprob": -0.2573542673140764,
+      "start": 11.74,
+      "text": "EXT-2",
+      "type": "word"
+    },
+    {
+      "end": 12.84,
+      "logprob": -0.000001549719513604941,
+      "start": 12.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.88,
+      "logprob": -0.000001549719513604941,
+      "start": 12.84,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 12.98,
+      "logprob": -0.00012766500003635883,
+      "start": 12.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.14,
+      "logprob": -0.00012766500003635883,
+      "start": 12.98,
+      "text": "abre",
+      "type": "word"
+    },
+    {
+      "end": 13.18,
+      "logprob": 0,
+      "start": 13.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.22,
+      "logprob": 0,
+      "start": 13.18,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 13.3,
+      "logprob": -0.00005340433563105762,
+      "start": 13.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.64,
+      "logprob": -0.00005340433563105762,
+      "start": 13.3,
+      "text": "camino",
+      "type": "word"
+    },
+    {
+      "end": 13.66,
+      "logprob": -0.000002264974000354414,
+      "start": 13.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.88,
+      "logprob": -0.000002264974000354414,
+      "start": 13.66,
+      "text": "hacia",
+      "type": "word"
+    },
+    {
+      "end": 13.96,
+      "logprob": -0.00002586808113846928,
+      "start": 13.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.3,
+      "logprob": -0.00002586808113846928,
+      "start": 13.96,
+      "text": "Stage",
+      "type": "word"
+    },
+    {
+      "end": 14.42,
+      "logprob": -0.000125281119835563,
+      "start": 14.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.7,
+      "logprob": -0.00009408004913780132,
+      "start": 14.42,
+      "text": "dos.",
+      "type": "word"
+    },
+    {
+      "end": 14.7,
+      "logprob": -0.00006532455881824717,
+      "start": 14.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.78,
+      "logprob": -0.00006532455881824717,
+      "start": 15.38,
+      "text": "Allí",
+      "type": "word"
+    },
+    {
+      "end": 15.88,
+      "logprob": -0.0033053308725357056,
+      "start": 15.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.02,
+      "logprob": -0.0033053308725357056,
+      "start": 15.88,
+      "text": "leo",
+      "type": "word"
+    },
+    {
+      "end": 16.059,
+      "logprob": -0.0000107287787614041,
+      "start": 16.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.16,
+      "logprob": -0.0000107287787614041,
+      "start": 16.059,
+      "text": "mi",
+      "type": "word"
+    },
+    {
+      "end": 16.2,
+      "logprob": -0.000030636318115284666,
+      "start": 16.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.94,
+      "logprob": -0.000030636318115284666,
+      "start": 16.2,
+      "text": "configuración",
+      "type": "word"
+    },
+    {
+      "end": 17.1,
+      "logprob": -3.576278118089249e-7,
+      "start": 16.94,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.14,
+      "logprob": -3.576278118089249e-7,
+      "start": 17.1,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 17.2,
+      "logprob": -0.0013861581683158877,
+      "start": 17.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.64,
+      "logprob": -0.0012475542724125432,
+      "start": 17.2,
+      "text": "selecciono",
+      "type": "word"
+    },
+    {
+      "end": 17.66,
+      "logprob": 0,
+      "start": 17.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.74,
+      "logprob": 0,
+      "start": 17.68,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 17.82,
+      "logprob": -0.00005113947918289341,
+      "start": 17.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.14,
+      "logprob": -0.00005113947918289341,
+      "start": 17.82,
+      "text": "núcleo",
+      "type": "word"
+    },
+    {
+      "end": 18.18,
+      "logprob": 0,
+      "start": 18.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.24,
+      "logprob": 0,
+      "start": 18.18,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 18.28,
+      "logprob": -0.000032305197237292305,
+      "start": 18.24,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.62,
+      "logprob": -0.000032305197237292305,
+      "start": 18.28,
+      "text": "Linux",
+      "type": "word"
+    },
+    {
+      "end": 18.68,
+      "logprob": -1.1920928244535389e-7,
+      "start": 18.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.78,
+      "logprob": -1.1920928244535389e-7,
+      "start": 18.68,
+      "text": "que",
+      "type": "word"
+    },
+    {
+      "end": 18.8,
+      "logprob": -9.536738616588992e-7,
+      "start": 18.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.92,
+      "logprob": -9.536738616588992e-7,
+      "start": 18.8,
+      "text": "voy",
+      "type": "word"
+    },
+    {
+      "end": 18.96,
+      "logprob": 0,
+      "start": 18.92,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.98,
+      "logprob": 0,
+      "start": 18.96,
+      "text": "a",
+      "type": "word"
+    },
+    {
+      "end": 19.06,
+      "logprob": -0.00004458328112377785,
+      "start": 18.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 19.44,
+      "logprob": -0.00004458328112377785,
+      "start": 19.06,
+      "text": "cargar",
+      "type": "word"
+    }
+  ],
+  "referencia": "Soy Grubi, grub Legacy. Mi primera etapa está instalada en el eme be erre y localiza una etapa intermedia, llamada Stage uno punto cinco. Esta comprende el sistema de archivos ext dos y abre el camino hacia Stage dos. Allí leo mi configuración y selecciono el núcleo de Linux que voy a cargar.",
+  "errores": 5,
+  "palabras": 53,
+  "wer": 0.09433962264150944
+}

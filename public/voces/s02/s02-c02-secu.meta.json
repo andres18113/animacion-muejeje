@@ -1,0 +1,16 @@
+{
+  "cueId": "S02-C02",
+  "mascotId": "secu",
+  "voiceId": "HJmys3t5KLr6DUWl0kSe",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "97fc8ca6269c338a4be330704a6c3cebbc3566b664bf63f4c8a1b7e7cf36328a",
+  "chars": 236,
+  "durationMs": 14880,
+  "fecha": "2026-10-18T14:37:53.687Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

@@ -1,0 +1,17 @@
+{
+  "cueId": "S12-C02",
+  "mascotId": "init",
+  "voiceId": "ihKwLOjVUMG4lgUI6meZ",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75,
+    "speed": 1.12
+  },
+  "hash": "30a4d32b6c1b8084d80673beecd46fe586b6bcfc9bee35c90ce05b5b138c1519",
+  "chars": 146,
+  "durationMs": 9938.141,
+  "fecha": "2026-10-18T14:46:25.836Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

@@ -1,0 +1,359 @@
+[
+  {
+    "text": " Soy",
+    "startMs": 0,
+    "endMs": 240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Grubi,",
+    "startMs": 320,
+    "endMs": 960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " GRUB",
+    "startMs": 1040,
+    "endMs": 1280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Legacy.",
+    "startMs": 1360,
+    "endMs": 2080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Mi",
+    "startMs": 2320,
+    "endMs": 2400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " primera",
+    "startMs": 2520,
+    "endMs": 2720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " etapa",
+    "startMs": 2800,
+    "endMs": 3120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " está",
+    "startMs": 3200,
+    "endMs": 3360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " instalada",
+    "startMs": 3480,
+    "endMs": 3840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " en",
+    "startMs": 3920,
+    "endMs": 4000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 4040,
+    "endMs": 4080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " MBR",
+    "startMs": 4240,
+    "endMs": 5040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 5360,
+    "endMs": 5400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " localiza",
+    "startMs": 5440,
+    "endMs": 5840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 5920,
+    "endMs": 6000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " etapa",
+    "startMs": 6080,
+    "endMs": 6320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " intermedia,",
+    "startMs": 6480,
+    "endMs": 7120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " llamada",
+    "startMs": 7200,
+    "endMs": 7600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Stage",
+    "startMs": 7760,
+    "endMs": 8160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " uno",
+    "startMs": 8320,
+    "endMs": 8480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " punto",
+    "startMs": 8640,
+    "endMs": 8880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cinco.",
+    "startMs": 8960,
+    "endMs": 9840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Esta",
+    "startMs": 9960,
+    "endMs": 10080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " comprende",
+    "startMs": 10160,
+    "endMs": 10480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 10520,
+    "endMs": 10560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " sistema",
+    "startMs": 10640,
+    "endMs": 10960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 11000,
+    "endMs": 11040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " archivos",
+    "startMs": 11160,
+    "endMs": 11520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ext",
+    "startMs": 11680,
+    "endMs": 12160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " dos",
+    "startMs": 12320,
+    "endMs": 12640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 12800,
+    "endMs": 12880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " abre",
+    "startMs": 12960,
+    "endMs": 13120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 13160,
+    "endMs": 13200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " camino",
+    "startMs": 13280,
+    "endMs": 13600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " hacia",
+    "startMs": 13640,
+    "endMs": 13840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Stage",
+    "startMs": 13920,
+    "endMs": 14320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " dos.",
+    "startMs": 14400,
+    "endMs": 15280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Allí",
+    "startMs": 15400,
+    "endMs": 15680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " leo",
+    "startMs": 15840,
+    "endMs": 16000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " mi",
+    "startMs": 16079.999999999998,
+    "endMs": 16160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " configuración",
+    "startMs": 16320,
+    "endMs": 16960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 17040,
+    "endMs": 17120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " selecciono",
+    "startMs": 17200,
+    "endMs": 17640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 17680,
+    "endMs": 17760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " núcleo",
+    "startMs": 17840,
+    "endMs": 18120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 18160,
+    "endMs": 18240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Linux",
+    "startMs": 18440,
+    "endMs": 18640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 18680,
+    "endMs": 18720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " voy",
+    "startMs": 18800,
+    "endMs": 18880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 18960,
+    "endMs": 19000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cargar.",
+    "startMs": 19040,
+    "endMs": 19600,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

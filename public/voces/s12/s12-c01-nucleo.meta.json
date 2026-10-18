@@ -1,0 +1,16 @@
+{
+  "cueId": "S12-C01",
+  "mascotId": "nucleo",
+  "voiceId": "gbTn1bmCvNgk0QEAVyfM",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "3111ffadf06a4790361b8864eb64a6276892c7249bdfc5b5b59e66ec98e3018a",
+  "chars": 117,
+  "durationMs": 8000,
+  "fecha": "2026-10-18T14:42:19.833Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

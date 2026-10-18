@@ -1,0 +1,706 @@
+{
+  "audio_duration_secs": 21.28,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Soy MBR, el registro maestro de arranque o MBR. Mis 512 bytes contienen un área de código, una tabla de cuatro entradas de partición y la firma final 55AA. En nuestro disco, el área ejecutable contiene la primera etapa de GRUB, que recibe el control cuando termina la lectura BIOS",
+  "transcription_id": "ZGjRLjFQzteRklxRP3Jw",
+  "words": [
+    {
+      "end": 0.26,
+      "logprob": -0.00005113947918289341,
+      "start": 0.1,
+      "text": "Soy",
+      "type": "word"
+    },
+    {
+      "end": 0.34,
+      "logprob": -0.0008925982983782887,
+      "start": 0.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.68,
+      "logprob": -0.0023536361841252074,
+      "start": 0.34,
+      "text": "MBR,",
+      "type": "word"
+    },
+    {
+      "end": 1.02,
+      "logprob": -0.000003933898824470816,
+      "start": 0.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.1,
+      "logprob": -0.000003933898824470816,
+      "start": 1.02,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 1.16,
+      "logprob": -0.02341419830918312,
+      "start": 1.1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.56,
+      "logprob": -0.02341419830918312,
+      "start": 1.16,
+      "text": "registro",
+      "type": "word"
+    },
+    {
+      "end": 1.66,
+      "logprob": -0.00007617183291586116,
+      "start": 1.56,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.08,
+      "logprob": -0.00007617183291586116,
+      "start": 1.66,
+      "text": "maestro",
+      "type": "word"
+    },
+    {
+      "end": 2.1,
+      "logprob": 0,
+      "start": 2.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.16,
+      "logprob": 0,
+      "start": 2.1,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 2.18,
+      "logprob": -0.00015078838623594493,
+      "start": 2.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.84,
+      "logprob": -0.00015078838623594493,
+      "start": 2.18,
+      "text": "arranque",
+      "type": "word"
+    },
+    {
+      "end": 2.9,
+      "logprob": -0.000036000557884108275,
+      "start": 2.84,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.98,
+      "logprob": -0.000036000557884108275,
+      "start": 2.9,
+      "text": "o",
+      "type": "word"
+    },
+    {
+      "end": 3.32,
+      "logprob": -0.00019834458362311125,
+      "start": 2.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.059,
+      "logprob": -0.0039581031724083005,
+      "start": 3.32,
+      "text": "MBR.",
+      "type": "word"
+    },
+    {
+      "end": 4.66,
+      "logprob": -0.00011014331539627165,
+      "start": 4.059,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.8,
+      "logprob": -0.00011014331539627165,
+      "start": 4.66,
+      "text": "Mis",
+      "type": "word"
+    },
+    {
+      "end": 5.08,
+      "logprob": -0.0010482537327334285,
+      "start": 4.8,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.68,
+      "logprob": -0.000006755127571977937,
+      "start": 5.08,
+      "text": "512",
+      "type": "word"
+    },
+    {
+      "end": 5.7,
+      "logprob": -0.0034893599804490805,
+      "start": 5.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.06,
+      "logprob": -0.0034893599804490805,
+      "start": 5.7,
+      "text": "bytes",
+      "type": "word"
+    },
+    {
+      "end": 6.14,
+      "logprob": -0.00004100715523236431,
+      "start": 6.06,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.58,
+      "logprob": -0.00004100715523236431,
+      "start": 6.14,
+      "text": "contienen",
+      "type": "word"
+    },
+    {
+      "end": 6.64,
+      "logprob": 0,
+      "start": 6.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.72,
+      "logprob": 0,
+      "start": 6.64,
+      "text": "un",
+      "type": "word"
+    },
+    {
+      "end": 6.8,
+      "logprob": -0.0000029802276912960224,
+      "start": 6.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.98,
+      "logprob": -0.0000029802276912960224,
+      "start": 6.8,
+      "text": "área",
+      "type": "word"
+    },
+    {
+      "end": 7.02,
+      "logprob": -2.384185506798531e-7,
+      "start": 6.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.08,
+      "logprob": -2.384185506798531e-7,
+      "start": 7.02,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 7.2,
+      "logprob": -0.000006556489552167477,
+      "start": 7.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.62,
+      "logprob": -0.000009928347546000233,
+      "start": 7.2,
+      "text": "código,",
+      "type": "word"
+    },
+    {
+      "end": 7.96,
+      "logprob": -0.000005006777428206988,
+      "start": 7.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.08,
+      "logprob": -0.000005006777428206988,
+      "start": 7.96,
+      "text": "una",
+      "type": "word"
+    },
+    {
+      "end": 8.2,
+      "logprob": -0.000003576272320060525,
+      "start": 8.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.5,
+      "logprob": -0.000003576272320060525,
+      "start": 8.2,
+      "text": "tabla",
+      "type": "word"
+    },
+    {
+      "end": 8.54,
+      "logprob": -1.1920928244535389e-7,
+      "start": 8.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.6,
+      "logprob": -1.1920928244535389e-7,
+      "start": 8.54,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 8.74,
+      "logprob": -0.00020823694649152455,
+      "start": 8.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.04,
+      "logprob": -0.00020823694649152455,
+      "start": 8.74,
+      "text": "cuatro",
+      "type": "word"
+    },
+    {
+      "end": 9.06,
+      "logprob": -0.000005006777428206988,
+      "start": 9.04,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.48,
+      "logprob": -0.000005006777428206988,
+      "start": 9.06,
+      "text": "entradas",
+      "type": "word"
+    },
+    {
+      "end": 9.5,
+      "logprob": -1.1920928244535389e-7,
+      "start": 9.48,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.56,
+      "logprob": -1.1920928244535389e-7,
+      "start": 9.5,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 9.64,
+      "logprob": -0.000854841957334429,
+      "start": 9.56,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.26,
+      "logprob": -0.0005721596069937126,
+      "start": 9.64,
+      "text": "partición",
+      "type": "word"
+    },
+    {
+      "end": 10.46,
+      "logprob": -7.152555099310121e-7,
+      "start": 10.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.48,
+      "logprob": -7.152555099310121e-7,
+      "start": 10.46,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 10.56,
+      "logprob": 0,
+      "start": 10.48,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.62,
+      "logprob": 0,
+      "start": 10.56,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 10.74,
+      "logprob": -0.000028490614567999728,
+      "start": 10.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11,
+      "logprob": -0.000028490614567999728,
+      "start": 10.74,
+      "text": "firma",
+      "type": "word"
+    },
+    {
+      "end": 11.1,
+      "logprob": -0.000009059865078597795,
+      "start": 11,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.42,
+      "logprob": -0.000009059865078597795,
+      "start": 11.1,
+      "text": "final",
+      "type": "word"
+    },
+    {
+      "end": 11.7,
+      "logprob": -0.002441522665321827,
+      "start": 11.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.12,
+      "logprob": -0.23051406987910356,
+      "start": 11.7,
+      "text": "55AA.",
+      "type": "word"
+    },
+    {
+      "end": 13.72,
+      "logprob": -0.000001311301275563892,
+      "start": 13.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.8,
+      "logprob": -0.000001311301275563892,
+      "start": 13.72,
+      "text": "En",
+      "type": "word"
+    },
+    {
+      "end": 13.84,
+      "logprob": -0.0000014305104514278355,
+      "start": 13.8,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.18,
+      "logprob": -0.0000014305104514278355,
+      "start": 13.84,
+      "text": "nuestro",
+      "type": "word"
+    },
+    {
+      "end": 14.22,
+      "logprob": -0.000003695481154863955,
+      "start": 14.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.62,
+      "logprob": -0.00003707061758480753,
+      "start": 14.22,
+      "text": "disco,",
+      "type": "word"
+    },
+    {
+      "end": 14.86,
+      "logprob": -4.768370445162873e-7,
+      "start": 14.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.96,
+      "logprob": -4.768370445162873e-7,
+      "start": 14.86,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 15.02,
+      "logprob": -0.000007748573807475623,
+      "start": 14.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.2,
+      "logprob": -0.000007748573807475623,
+      "start": 15.02,
+      "text": "área",
+      "type": "word"
+    },
+    {
+      "end": 15.22,
+      "logprob": -0.009534300304949284,
+      "start": 15.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.88,
+      "logprob": -0.004140360024757683,
+      "start": 15.22,
+      "text": "ejecutable",
+      "type": "word"
+    },
+    {
+      "end": 15.96,
+      "logprob": -0.000009417489309271332,
+      "start": 15.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.36,
+      "logprob": -0.000009417489309271332,
+      "start": 15.98,
+      "text": "contiene",
+      "type": "word"
+    },
+    {
+      "end": 16.4,
+      "logprob": -4.768370445162873e-7,
+      "start": 16.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.46,
+      "logprob": -4.768370445162873e-7,
+      "start": 16.4,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 16.56,
+      "logprob": -0.00002312633478140924,
+      "start": 16.46,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17,
+      "logprob": -0.00002312633478140924,
+      "start": 16.56,
+      "text": "primera",
+      "type": "word"
+    },
+    {
+      "end": 17.02,
+      "logprob": -0.000011444026313256472,
+      "start": 17,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.42,
+      "logprob": -0.000011444026313256472,
+      "start": 17.02,
+      "text": "etapa",
+      "type": "word"
+    },
+    {
+      "end": 17.44,
+      "logprob": -1.1920928244535389e-7,
+      "start": 17.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.54,
+      "logprob": -1.1920928244535389e-7,
+      "start": 17.44,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 17.62,
+      "logprob": -0.04039912298321724,
+      "start": 17.54,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.9,
+      "logprob": -0.017367388079583178,
+      "start": 17.62,
+      "text": "GRUB,",
+      "type": "word"
+    },
+    {
+      "end": 18.2,
+      "logprob": 0,
+      "start": 17.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.28,
+      "logprob": 0,
+      "start": 18.2,
+      "text": "que",
+      "type": "word"
+    },
+    {
+      "end": 18.32,
+      "logprob": -0.00003886147169396281,
+      "start": 18.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.64,
+      "logprob": -0.00003886147169396281,
+      "start": 18.32,
+      "text": "recibe",
+      "type": "word"
+    },
+    {
+      "end": 18.68,
+      "logprob": -7.152555099310121e-7,
+      "start": 18.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 18.78,
+      "logprob": -7.152555099310121e-7,
+      "start": 18.68,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 18.8,
+      "logprob": -2.384185506798531e-7,
+      "start": 18.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 19.22,
+      "logprob": -2.384185506798531e-7,
+      "start": 18.8,
+      "text": "control",
+      "type": "word"
+    },
+    {
+      "end": 19.3,
+      "logprob": -0.000001549719513604941,
+      "start": 19.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 19.5,
+      "logprob": -0.000001549719513604941,
+      "start": 19.3,
+      "text": "cuando",
+      "type": "word"
+    },
+    {
+      "end": 19.58,
+      "logprob": -0.000017165990357170813,
+      "start": 19.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 20.02,
+      "logprob": -0.000017165990357170813,
+      "start": 19.58,
+      "text": "termina",
+      "type": "word"
+    },
+    {
+      "end": 20.06,
+      "logprob": -0.0000023841830625315197,
+      "start": 20.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 20.12,
+      "logprob": -0.0000023841830625315197,
+      "start": 20.06,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 20.16,
+      "logprob": -0.000010251946150674485,
+      "start": 20.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 20.56,
+      "logprob": -0.000010251946150674485,
+      "start": 20.16,
+      "text": "lectura",
+      "type": "word"
+    },
+    {
+      "end": 20.66,
+      "logprob": -0.0001470934512326494,
+      "start": 20.56,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 21.08,
+      "logprob": -0.0001470934512326494,
+      "start": 20.66,
+      "text": "BIOS",
+      "type": "word"
+    }
+  ],
+  "referencia": "Soy Mebre, el registro maestro de arranque o eme be erre. Mis quinientos doce bytes contienen un área de código, una tabla de cuatro entradas de partición y la firma final cincuenta y cinco, A A. En nuestro disco, el área ejecutable contiene la primera etapa de grub, que recibe el control cuando termina la lectura bios.",
+  "errores": 11,
+  "palabras": 57,
+  "wer": 0.19298245614035087
+}

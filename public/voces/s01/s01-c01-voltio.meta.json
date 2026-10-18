@@ -1,0 +1,16 @@
+{
+  "cueId": "S01-C01",
+  "mascotId": "voltio",
+  "voiceId": "p7cwnUviDFhhX9y8sG2Q",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "8e5d5644d12b65baacdea8edc5bab9c43a88aa99434d5dfa707963a84145e791",
+  "chars": 277,
+  "durationMs": 17840,
+  "fecha": "2026-10-18T16:16:15.753Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

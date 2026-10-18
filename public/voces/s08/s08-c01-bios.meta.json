@@ -1,0 +1,16 @@
+{
+  "cueId": "S08-C01",
+  "mascotId": "bios",
+  "voiceId": "zsNrTi54AOcO2sUuJpdJ",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "fd36ed4a2b8a8cca2f8107533d4fa0d614227c41fcd475f22e989a6baff8b5ca",
+  "chars": 294,
+  "durationMs": 17440,
+  "fecha": "2026-10-18T17:18:13.370Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

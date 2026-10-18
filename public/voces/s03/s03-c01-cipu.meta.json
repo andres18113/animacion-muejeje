@@ -1,0 +1,16 @@
+{
+  "cueId": "S03-C01",
+  "mascotId": "cipu",
+  "voiceId": "tomkxGQGz4b1kE0EM722",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "caf357c87f354ca168f9ed0a72e19b7b5bcd4816afde0f25e4d75532476c1289",
+  "chars": 368,
+  "durationMs": 22080,
+  "fecha": "2026-10-18T14:37:53.735Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "composicion": "S05PostMemoria",
+  "fps": 30,
+  "ancho": 1920,
+  "alto": 1080,
+  "escala": 1,
+  "metodo": "secuencia-png",
+  "perfilCaptura": [
+    0,
+    157,
+    380,
+    475,
+    788,
+    962,
+    1214,
+    1344,
+    1499
+  ],
+  "capturaManifest": "out/produccion/S05/canonico/1080/manifest.json",
+  "fuente": "out/produccion/S05/canonico/1080/png",
+  "nota": "S05 APROBADO por árbitro y dirección; perfil canónico de nueve PNG repetido9/9. Conservar hashes y procedimiento. No certifica identidad binaria adicional S04.",
+  "frames": [
+    {
+      "frame": 0,
+      "archivo": "element-0000.png",
+      "sha256": "9833aa1ff882b26da37f4f5b1635dc397ac823ddebb786442d0d32968f3cf905"
+    },
+    {
+      "frame": 157,
+      "archivo": "element-0157.png",
+      "sha256": "2131a39966f9b654c5671dfde28f03d578785987b27fff8414de606a443fdf9b"
+    },
+    {
+      "frame": 380,
+      "archivo": "element-0380.png",
+      "sha256": "276a7a18e802332d27f47a1ce13d7199c08ab47832808a33eacea54fe66089ca"
+    },
+    {
+      "frame": 475,
+      "archivo": "element-0475.png",
+      "sha256": "4dd1cb6fa3f88655bc5d4b059bb7e2238087bd7a9a1ae28fdfa6a1cd9472ea05"
+    },
+    {
+      "frame": 788,
+      "archivo": "element-0788.png",
+      "sha256": "0f0eeb079f54e0841108bb4c4a4e172a91facc4b510c4e583b52ebd94320a2eb"
+    },
+    {
+      "frame": 962,
+      "archivo": "element-0962.png",
+      "sha256": "99783eaea7d633b84b3b18f1a4c28172c5cb0f0bd640ce7480f7b9a8fedb3aae"
+    },
+    {
+      "frame": 1214,
+      "archivo": "element-1214.png",
+      "sha256": "2d997a9c033d3a2f8c67ad4ae1b8c093d34bcf02dd72679a29e05e04b640c78f"
+    },
+    {
+      "frame": 1344,
+      "archivo": "element-1344.png",
+      "sha256": "93b737b7793036abbb51a49eeaa8a73605b5fc067a050b482047c6ca04415c49"
+    },
+    {
+      "frame": 1499,
+      "archivo": "element-1499.png",
+      "sha256": "36d11e3e4b38c857841166f8cfe4f114db7f4c23fffc329ce8e33b967865854e"
+    }
+  ]
+}

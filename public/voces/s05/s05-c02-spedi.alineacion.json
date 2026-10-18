@@ -1,0 +1,114 @@
+[
+  {
+    "text": " Yo",
+    "startMs": 0,
+    "endMs": 160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " soy",
+    "startMs": 240,
+    "endMs": 480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Spedi,",
+    "startMs": 640,
+    "endMs": 1520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 1640,
+    "endMs": 1760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " pequeña",
+    "startMs": 1840,
+    "endMs": 2320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " EEPROM",
+    "startMs": 2400,
+    "endMs": 3120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " del",
+    "startMs": 3200,
+    "endMs": 3360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " módulo",
+    "startMs": 3440,
+    "endMs": 3760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 3840,
+    "endMs": 3920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " memoria.",
+    "startMs": 4000,
+    "endMs": 4640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Entrego",
+    "startMs": 4800,
+    "endMs": 5200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " datos",
+    "startMs": 5400,
+    "endMs": 5600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " sobre",
+    "startMs": 5640,
+    "endMs": 5920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " tamaño",
+    "startMs": 6000,
+    "endMs": 6480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 6640,
+    "endMs": 6680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " velocidad.",
+    "startMs": 6720,
+    "endMs": 7600,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

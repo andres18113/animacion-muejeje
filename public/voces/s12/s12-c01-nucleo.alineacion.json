@@ -1,0 +1,121 @@
+[
+  {
+    "text": " Soy",
+    "startMs": 0,
+    "endMs": 240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Núcleo,",
+    "startMs": 320,
+    "endMs": 960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 1040,
+    "endMs": 1120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " kernel",
+    "startMs": 1200,
+    "endMs": 1600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Linux.",
+    "startMs": 1680,
+    "endMs": 2320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Inicializo",
+    "startMs": 2480,
+    "endMs": 3040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " memoria,",
+    "startMs": 3160,
+    "endMs": 3760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " interrupciones",
+    "startMs": 3840,
+    "endMs": 4640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 4680,
+    "endMs": 4720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " controladores,",
+    "startMs": 4800,
+    "endMs": 5760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 5800,
+    "endMs": 5840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " monto",
+    "startMs": 5920,
+    "endMs": 6160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 6200,
+    "endMs": 6240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " sistema",
+    "startMs": 6320,
+    "endMs": 6720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 6760,
+    "endMs": 6800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " archivos",
+    "startMs": 6920,
+    "endMs": 7280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " raíz.",
+    "startMs": 7360,
+    "endMs": 8000,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

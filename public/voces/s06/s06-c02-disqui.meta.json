@@ -1,0 +1,16 @@
+{
+  "cueId": "S06-C02",
+  "mascotId": "disqui",
+  "voiceId": "U9TSK9KHMlMU2qkeXlQP",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "f2c2e288e88ba4d1c41faca65d40fa2b00c8f9f52f188533ad800399ca00ef18",
+  "chars": 153,
+  "durationMs": 8960,
+  "fecha": "2026-10-18T16:16:28.512Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

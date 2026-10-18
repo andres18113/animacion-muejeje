@@ -1,0 +1,328 @@
+{
+  "audio_duration_secs": 8.64,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Como no hay un disquete arrancable, el BIOS selecciona el disco y activa la rutina de inicio, representada por la interrupción 19 hexadecimal",
+  "transcription_id": "u5BuXGtmZCLPu3DTTIu7",
+  "words": [
+    {
+      "end": 0.28,
+      "logprob": -0.00003194758028257638,
+      "start": 0.12,
+      "text": "Como",
+      "type": "word"
+    },
+    {
+      "end": 0.36,
+      "logprob": -4.768370445162873e-7,
+      "start": 0.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.46,
+      "logprob": -4.768370445162873e-7,
+      "start": 0.36,
+      "text": "no",
+      "type": "word"
+    },
+    {
+      "end": 0.46,
+      "logprob": -3.576278118089249e-7,
+      "start": 0.46,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.6,
+      "logprob": -3.576278118089249e-7,
+      "start": 0.46,
+      "text": "hay",
+      "type": "word"
+    },
+    {
+      "end": 0.64,
+      "logprob": -9.536738616588992e-7,
+      "start": 0.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.7,
+      "logprob": -9.536738616588992e-7,
+      "start": 0.64,
+      "text": "un",
+      "type": "word"
+    },
+    {
+      "end": 0.74,
+      "logprob": -0.01661992073059082,
+      "start": 0.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.12,
+      "logprob": -0.007008264597970992,
+      "start": 0.74,
+      "text": "disquete",
+      "type": "word"
+    },
+    {
+      "end": 1.14,
+      "logprob": -0.0012687736889347434,
+      "start": 1.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.76,
+      "logprob": -0.000720144356819219,
+      "start": 1.14,
+      "text": "arrancable,",
+      "type": "word"
+    },
+    {
+      "end": 2.08,
+      "logprob": -0.000004768360213347478,
+      "start": 1.76,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.16,
+      "logprob": -0.000004768360213347478,
+      "start": 2.08,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 2.24,
+      "logprob": -0.000023364747903542593,
+      "start": 2.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.5,
+      "logprob": -0.000023364747903542593,
+      "start": 2.24,
+      "text": "BIOS",
+      "type": "word"
+    },
+    {
+      "end": 2.54,
+      "logprob": -0.0004956685588695109,
+      "start": 2.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.98,
+      "logprob": -0.0004956685588695109,
+      "start": 2.54,
+      "text": "selecciona",
+      "type": "word"
+    },
+    {
+      "end": 3.02,
+      "logprob": -1.1920928244535389e-7,
+      "start": 2.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.08,
+      "logprob": -1.1920928244535389e-7,
+      "start": 3.02,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 3.16,
+      "logprob": -0.000048636207793606445,
+      "start": 3.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.6,
+      "logprob": -0.000048636207793606445,
+      "start": 3.16,
+      "text": "disco",
+      "type": "word"
+    },
+    {
+      "end": 3.64,
+      "logprob": -3.576278118089249e-7,
+      "start": 3.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.68,
+      "logprob": -3.576278118089249e-7,
+      "start": 3.64,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 3.74,
+      "logprob": -0.000024914430468925275,
+      "start": 3.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.12,
+      "logprob": -0.000024914430468925275,
+      "start": 3.74,
+      "text": "activa",
+      "type": "word"
+    },
+    {
+      "end": 4.16,
+      "logprob": -3.576278118089249e-7,
+      "start": 4.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.22,
+      "logprob": -3.576278118089249e-7,
+      "start": 4.16,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 4.28,
+      "logprob": -0.0000020265558760002023,
+      "start": 4.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.64,
+      "logprob": -0.0000020265558760002023,
+      "start": 4.28,
+      "text": "rutina",
+      "type": "word"
+    },
+    {
+      "end": 4.66,
+      "logprob": -2.384185506798531e-7,
+      "start": 4.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.74,
+      "logprob": -2.384185506798531e-7,
+      "start": 4.66,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 4.78,
+      "logprob": -0.000018954096958623268,
+      "start": 4.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.18,
+      "logprob": -0.01632198250185216,
+      "start": 4.78,
+      "text": "inicio,",
+      "type": "word"
+    },
+    {
+      "end": 5.5,
+      "logprob": -0.0005198557628318667,
+      "start": 5.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.14,
+      "logprob": -0.0005198557628318667,
+      "start": 5.5,
+      "text": "representada",
+      "type": "word"
+    },
+    {
+      "end": 6.26,
+      "logprob": 0,
+      "start": 6.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.36,
+      "logprob": 0,
+      "start": 6.26,
+      "text": "por",
+      "type": "word"
+    },
+    {
+      "end": 6.38,
+      "logprob": 0,
+      "start": 6.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.42,
+      "logprob": 0,
+      "start": 6.38,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 6.46,
+      "logprob": -0.0002470903273206204,
+      "start": 6.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.02,
+      "logprob": -0.0002138580700072149,
+      "start": 6.46,
+      "text": "interrupción",
+      "type": "word"
+    },
+    {
+      "end": 7.08,
+      "logprob": -0.0036326153203845024,
+      "start": 7.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.72,
+      "logprob": -0.000005006773221793992,
+      "start": 7.08,
+      "text": "19",
+      "type": "word"
+    },
+    {
+      "end": 7.74,
+      "logprob": -0.0016764646861702204,
+      "start": 7.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.42,
+      "logprob": -0.0016764646861702204,
+      "start": 7.74,
+      "text": "hexadecimal",
+      "type": "word"
+    }
+  ],
+  "referencia": "Como no hay un disquete arrancable, el bios selecciona el disco y activa la rutina de inicio, representada por la interrupción diecinueve hexadecimal.",
+  "errores": 1,
+  "palabras": 23,
+  "wer": 0.043478260869565216
+}

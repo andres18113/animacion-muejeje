@@ -1,0 +1,580 @@
+{
+  "audio_duration_secs": 17.84,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Soy Voltio, la fuente ATX. Recibo corriente alterna y proporciono una tensión de espera llamada cinco voltios standby. Cuando la placa me ordena encender, activo mis salidas. Solo al estabilizarse las tensiones comunico que la alimentación es adecuada mediante Power OK",
+  "transcription_id": "yiOeqK1xXX6lXQVBEnuN",
+  "words": [
+    {
+      "end": 0.26,
+      "logprob": -0.00008010543388081715,
+      "start": 0.12,
+      "text": "Soy",
+      "type": "word"
+    },
+    {
+      "end": 0.34,
+      "logprob": -0.015552426688373089,
+      "start": 0.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.74,
+      "logprob": -0.008906548541874924,
+      "start": 0.34,
+      "text": "Voltio,",
+      "type": "word"
+    },
+    {
+      "end": 1.14,
+      "logprob": -0.0000010728830375228426,
+      "start": 0.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.2,
+      "logprob": -0.0000010728830375228426,
+      "start": 1.14,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 1.32,
+      "logprob": -0.00017915551143232733,
+      "start": 1.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.66,
+      "logprob": -0.00017915551143232733,
+      "start": 1.32,
+      "text": "fuente",
+      "type": "word"
+    },
+    {
+      "end": 1.76,
+      "logprob": -0.000013947389561508317,
+      "start": 1.66,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.5,
+      "logprob": -0.000012040043515071376,
+      "start": 1.76,
+      "text": "ATX.",
+      "type": "word"
+    },
+    {
+      "end": 2.88,
+      "logprob": -0.000014424220353248527,
+      "start": 2.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.26,
+      "logprob": -0.00001591431282577105,
+      "start": 2.88,
+      "text": "Recibo",
+      "type": "word"
+    },
+    {
+      "end": 3.28,
+      "logprob": -0.00002288792165927589,
+      "start": 3.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.64,
+      "logprob": -0.00002288792165927589,
+      "start": 3.28,
+      "text": "corriente",
+      "type": "word"
+    },
+    {
+      "end": 3.68,
+      "logprob": -0.000546425289940089,
+      "start": 3.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.26,
+      "logprob": -0.000546425289940089,
+      "start": 3.68,
+      "text": "alterna",
+      "type": "word"
+    },
+    {
+      "end": 4.3,
+      "logprob": -4.768370445162873e-7,
+      "start": 4.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.34,
+      "logprob": -4.768370445162873e-7,
+      "start": 4.3,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 4.42,
+      "logprob": -0.001404728856869042,
+      "start": 4.34,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.98,
+      "logprob": -0.001277037070724806,
+      "start": 4.42,
+      "text": "proporciono",
+      "type": "word"
+    },
+    {
+      "end": 5.02,
+      "logprob": -5.960462772236497e-7,
+      "start": 4.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.14,
+      "logprob": -5.960462772236497e-7,
+      "start": 5.02,
+      "text": "una",
+      "type": "word"
+    },
+    {
+      "end": 5.2,
+      "logprob": -0.0001928620331455022,
+      "start": 5.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.6,
+      "logprob": -0.0001928620331455022,
+      "start": 5.2,
+      "text": "tensión",
+      "type": "word"
+    },
+    {
+      "end": 5.64,
+      "logprob": 0,
+      "start": 5.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.68,
+      "logprob": 0,
+      "start": 5.64,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 5.7,
+      "logprob": -0.000005245195097813848,
+      "start": 5.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.08,
+      "logprob": -0.000005245195097813848,
+      "start": 5.7,
+      "text": "espera",
+      "type": "word"
+    },
+    {
+      "end": 6.16,
+      "logprob": -0.0001224204461323097,
+      "start": 6.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.58,
+      "logprob": -0.0001224204461323097,
+      "start": 6.16,
+      "text": "llamada",
+      "type": "word"
+    },
+    {
+      "end": 6.84,
+      "logprob": -0.0005839549703523517,
+      "start": 6.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.14,
+      "logprob": -0.0005839549703523517,
+      "start": 6.84,
+      "text": "cinco",
+      "type": "word"
+    },
+    {
+      "end": 7.24,
+      "logprob": -0.0028413659892976284,
+      "start": 7.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.66,
+      "logprob": -0.0016258856489262791,
+      "start": 7.24,
+      "text": "voltios",
+      "type": "word"
+    },
+    {
+      "end": 7.86,
+      "logprob": -0.002023793524131179,
+      "start": 7.66,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.32,
+      "logprob": -0.0017711918620761935,
+      "start": 7.86,
+      "text": "standby.",
+      "type": "word"
+    },
+    {
+      "end": 8.68,
+      "logprob": -0.000055549986427649856,
+      "start": 8.32,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.88,
+      "logprob": -0.000055549986427649856,
+      "start": 8.68,
+      "text": "Cuando",
+      "type": "word"
+    },
+    {
+      "end": 8.92,
+      "logprob": 0,
+      "start": 8.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.96,
+      "logprob": 0,
+      "start": 8.92,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 9.06,
+      "logprob": -0.00045694399159401655,
+      "start": 8.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.3,
+      "logprob": -0.00045694399159401655,
+      "start": 9.06,
+      "text": "placa",
+      "type": "word"
+    },
+    {
+      "end": 9.36,
+      "logprob": -5.960462772236497e-7,
+      "start": 9.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.42,
+      "logprob": -5.960462772236497e-7,
+      "start": 9.36,
+      "text": "me",
+      "type": "word"
+    },
+    {
+      "end": 9.46,
+      "logprob": -0.00007116541382856667,
+      "start": 9.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.72,
+      "logprob": -0.00007116541382856667,
+      "start": 9.46,
+      "text": "ordena",
+      "type": "word"
+    },
+    {
+      "end": 9.74,
+      "logprob": -0.000016569954823353328,
+      "start": 9.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.24,
+      "logprob": -0.000007112765852449836,
+      "start": 9.74,
+      "text": "encender,",
+      "type": "word"
+    },
+    {
+      "end": 10.56,
+      "logprob": -0.0009195152088068426,
+      "start": 10.24,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.96,
+      "logprob": -0.0009195152088068426,
+      "start": 10.56,
+      "text": "activo",
+      "type": "word"
+    },
+    {
+      "end": 11,
+      "logprob": -0.00002706014311115723,
+      "start": 10.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.12,
+      "logprob": -0.00002706014311115723,
+      "start": 11,
+      "text": "mis",
+      "type": "word"
+    },
+    {
+      "end": 11.16,
+      "logprob": -0.00000250339189733495,
+      "start": 11.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.68,
+      "logprob": -0.0000036656741144724943,
+      "start": 11.16,
+      "text": "salidas.",
+      "type": "word"
+    },
+    {
+      "end": 12.06,
+      "logprob": -0.0001740304142003879,
+      "start": 11.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.24,
+      "logprob": -0.0001740304142003879,
+      "start": 12.06,
+      "text": "Solo",
+      "type": "word"
+    },
+    {
+      "end": 12.28,
+      "logprob": 0,
+      "start": 12.24,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.34,
+      "logprob": 0,
+      "start": 12.28,
+      "text": "al",
+      "type": "word"
+    },
+    {
+      "end": 12.38,
+      "logprob": -0.00004625213477993384,
+      "start": 12.34,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.08,
+      "logprob": -0.0002912660672266681,
+      "start": 12.38,
+      "text": "estabilizarse",
+      "type": "word"
+    },
+    {
+      "end": 13.12,
+      "logprob": -1.1920928244535389e-7,
+      "start": 13.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.22,
+      "logprob": -1.1920928244535389e-7,
+      "start": 13.12,
+      "text": "las",
+      "type": "word"
+    },
+    {
+      "end": 13.28,
+      "logprob": -0.00005495397272170521,
+      "start": 13.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.84,
+      "logprob": -0.0000427419787835485,
+      "start": 13.28,
+      "text": "tensiones",
+      "type": "word"
+    },
+    {
+      "end": 13.94,
+      "logprob": -0.034182071685791016,
+      "start": 13.84,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.36,
+      "logprob": -0.02136562764201244,
+      "start": 13.94,
+      "text": "comunico",
+      "type": "word"
+    },
+    {
+      "end": 14.44,
+      "logprob": 0,
+      "start": 14.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.52,
+      "logprob": 0,
+      "start": 14.44,
+      "text": "que",
+      "type": "word"
+    },
+    {
+      "end": 14.56,
+      "logprob": -2.384185506798531e-7,
+      "start": 14.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.64,
+      "logprob": -2.384185506798531e-7,
+      "start": 14.56,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 14.68,
+      "logprob": -0.00002729855441430118,
+      "start": 14.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.38,
+      "logprob": -0.00002729855441430118,
+      "start": 14.68,
+      "text": "alimentación",
+      "type": "word"
+    },
+    {
+      "end": 15.4,
+      "logprob": -2.384185506798531e-7,
+      "start": 15.38,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.5,
+      "logprob": -2.384185506798531e-7,
+      "start": 15.4,
+      "text": "es",
+      "type": "word"
+    },
+    {
+      "end": 15.56,
+      "logprob": -0.0006280356901697814,
+      "start": 15.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.04,
+      "logprob": -0.0006280356901697814,
+      "start": 15.56,
+      "text": "adecuada",
+      "type": "word"
+    },
+    {
+      "end": 16.14,
+      "logprob": -0.0000019073468138230965,
+      "start": 16.04,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.58,
+      "logprob": -0.0000019073468138230965,
+      "start": 16.14,
+      "text": "mediante",
+      "type": "word"
+    },
+    {
+      "end": 16.78,
+      "logprob": -0.005248932633548975,
+      "start": 16.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.1,
+      "logprob": -0.005248932633548975,
+      "start": 16.78,
+      "text": "Power",
+      "type": "word"
+    },
+    {
+      "end": 17.24,
+      "logprob": -0.4505510926246643,
+      "start": 17.1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.6,
+      "logprob": -0.4505510926246643,
+      "start": 17.24,
+      "text": "OK",
+      "type": "word"
+    }
+  ],
+  "referencia": "Soy Voltio, la fuente a te equis. Recibo corriente alterna y proporciono una tensión de espera llamada cinco voltios standby. Cuando la placa me ordena encender, activo mis salidas. Solo al estabilizarse las tensiones comunico que la alimentación es adecuada mediante power ok.",
+  "errores": 3,
+  "palabras": 43,
+  "wer": 0.06976744186046512
+}

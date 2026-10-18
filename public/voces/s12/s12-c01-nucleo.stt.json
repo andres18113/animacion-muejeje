@@ -1,0 +1,244 @@
+{
+  "audio_duration_secs": 8,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Soy Núcleo, el Kernel Linux. Inicializo memoria, interrupciones y controladores y monto el sistema de archivos raíz",
+  "transcription_id": "TR9kBDWLkv94snkfnngw",
+  "words": [
+    {
+      "end": 0.26,
+      "logprob": -0.00005125868119648658,
+      "start": 0.12,
+      "text": "Soy",
+      "type": "word"
+    },
+    {
+      "end": 0.36,
+      "logprob": -0.03959989547729492,
+      "start": 0.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.72,
+      "logprob": -0.014367243041176285,
+      "start": 0.36,
+      "text": "Núcleo,",
+      "type": "word"
+    },
+    {
+      "end": 1.02,
+      "logprob": -0.000006079655122448457,
+      "start": 0.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.14,
+      "logprob": -0.000006079655122448457,
+      "start": 1.02,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 1.24,
+      "logprob": -0.5231828689575195,
+      "start": 1.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.6,
+      "logprob": -0.5231828689575195,
+      "start": 1.24,
+      "text": "Kernel",
+      "type": "word"
+    },
+    {
+      "end": 1.68,
+      "logprob": -0.00002372236667724792,
+      "start": 1.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.12,
+      "logprob": -0.000026642899380628176,
+      "start": 1.68,
+      "text": "Linux.",
+      "type": "word"
+    },
+    {
+      "end": 2.56,
+      "logprob": -0.004314163234084845,
+      "start": 2.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.04,
+      "logprob": -0.0030296415847260506,
+      "start": 2.56,
+      "text": "Inicializo",
+      "type": "word"
+    },
+    {
+      "end": 3.12,
+      "logprob": -0.000009536697689327411,
+      "start": 3.04,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.6,
+      "logprob": -0.000008955556609180348,
+      "start": 3.12,
+      "text": "memoria,",
+      "type": "word"
+    },
+    {
+      "end": 3.82,
+      "logprob": -0.0002037079248111695,
+      "start": 3.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.64,
+      "logprob": -0.00030028291803319007,
+      "start": 3.82,
+      "text": "interrupciones",
+      "type": "word"
+    },
+    {
+      "end": 4.72,
+      "logprob": -2.384185506798531e-7,
+      "start": 4.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.76,
+      "logprob": -2.384185506798531e-7,
+      "start": 4.72,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 4.84,
+      "logprob": -0.000024914430468925275,
+      "start": 4.76,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.58,
+      "logprob": -0.000024914430468925275,
+      "start": 4.84,
+      "text": "controladores",
+      "type": "word"
+    },
+    {
+      "end": 5.82,
+      "logprob": -0.01416344940662384,
+      "start": 5.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.84,
+      "logprob": -0.01416344940662384,
+      "start": 5.82,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 5.96,
+      "logprob": -0.0007831366965547204,
+      "start": 5.84,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.18,
+      "logprob": -0.0007831366965547204,
+      "start": 5.96,
+      "text": "monto",
+      "type": "word"
+    },
+    {
+      "end": 6.22,
+      "logprob": 0,
+      "start": 6.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.3,
+      "logprob": 0,
+      "start": 6.22,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 6.34,
+      "logprob": -0.000004529942543740617,
+      "start": 6.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.72,
+      "logprob": -0.000004529942543740617,
+      "start": 6.34,
+      "text": "sistema",
+      "type": "word"
+    },
+    {
+      "end": 6.78,
+      "logprob": -2.384185506798531e-7,
+      "start": 6.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.82,
+      "logprob": -2.384185506798531e-7,
+      "start": 6.78,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 6.86,
+      "logprob": -0.00008654219709569588,
+      "start": 6.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.28,
+      "logprob": -0.00008654219709569588,
+      "start": 6.86,
+      "text": "archivos",
+      "type": "word"
+    },
+    {
+      "end": 7.38,
+      "logprob": -0.000010371154530730564,
+      "start": 7.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.78,
+      "logprob": -0.000010371154530730564,
+      "start": 7.38,
+      "text": "raíz",
+      "type": "word"
+    }
+  ],
+  "referencia": "Soy Núcleo, el kernel Linux. Inicializo memoria, interrupciones y controladores, y monto el sistema de archivos raíz.",
+  "errores": 0,
+  "palabras": 17,
+  "wer": 0
+}

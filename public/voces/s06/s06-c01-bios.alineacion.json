@@ -1,0 +1,170 @@
+[
+  {
+    "text": " Ahora",
+    "startMs": 0,
+    "endMs": 240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " preparo",
+    "startMs": 320,
+    "endMs": 640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " los",
+    "startMs": 720,
+    "endMs": 800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " servicios",
+    "startMs": 920,
+    "endMs": 1200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 1240,
+    "endMs": 1280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " interrupción",
+    "startMs": 1360,
+    "endMs": 2000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 2080,
+    "endMs": 2120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " las",
+    "startMs": 2160,
+    "endMs": 2320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " áreas",
+    "startMs": 2400,
+    "endMs": 2560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 2640,
+    "endMs": 2680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " datos",
+    "startMs": 2720,
+    "endMs": 3040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " BIOS",
+    "startMs": 3120,
+    "endMs": 3440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " en",
+    "startMs": 3480,
+    "endMs": 3520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " RAM.",
+    "startMs": 3600,
+    "endMs": 4240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " También",
+    "startMs": 4293,
+    "endMs": 4560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " inicializo",
+    "startMs": 4640,
+    "endMs": 5120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 5160,
+    "endMs": 5200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " video,",
+    "startMs": 5440,
+    "endMs": 5840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 5880,
+    "endMs": 5920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " teclado",
+    "startMs": 6000,
+    "endMs": 6560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 6600,
+    "endMs": 6640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 6680,
+    "endMs": 6720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " controlador",
+    "startMs": 6800,
+    "endMs": 7360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " IDE.",
+    "startMs": 7600,
+    "endMs": 8400,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

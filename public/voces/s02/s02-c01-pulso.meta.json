@@ -1,0 +1,16 @@
+{
+  "cueId": "S02-C01",
+  "mascotId": "pulso",
+  "voiceId": "WOY6pnQ1WCg0mrOZ54lM",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "60c4a03e4bf7738b4b666076bc25baf6c66f0c3077cf4690cda0bd27703cc1d5",
+  "chars": 78,
+  "durationMs": 5360,
+  "fecha": "2026-10-18T14:38:50.167Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

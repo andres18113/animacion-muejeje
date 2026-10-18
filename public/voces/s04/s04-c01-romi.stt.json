@@ -1,0 +1,230 @@
+{
+  "audio_duration_secs": 7.68,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Soy Romy, la memoria flash que almacena el BIOS. Tengo 512 kibibytes organizados en ocho bloques",
+  "transcription_id": "04UaxNsbjWjra7ZMBQ6T",
+  "words": [
+    {
+      "end": 0.26,
+      "logprob": -0.00003218599158572033,
+      "start": 0.12,
+      "text": "Soy",
+      "type": "word"
+    },
+    {
+      "end": 0.34,
+      "logprob": -0.026365237310528755,
+      "start": 0.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.66,
+      "logprob": -0.005551054392708465,
+      "start": 0.34,
+      "text": "Romy,",
+      "type": "word"
+    },
+    {
+      "end": 1.14,
+      "logprob": -9.536738616588992e-7,
+      "start": 0.66,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.2,
+      "logprob": -9.536738616588992e-7,
+      "start": 1.14,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 1.24,
+      "logprob": -0.000005602820692729438,
+      "start": 1.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.56,
+      "logprob": -0.000005602820692729438,
+      "start": 1.24,
+      "text": "memoria",
+      "type": "word"
+    },
+    {
+      "end": 1.72,
+      "logprob": -0.00595545070245862,
+      "start": 1.56,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.02,
+      "logprob": -0.00595545070245862,
+      "start": 1.72,
+      "text": "flash",
+      "type": "word"
+    },
+    {
+      "end": 2.08,
+      "logprob": -1.1920928244535389e-7,
+      "start": 2.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.14,
+      "logprob": -1.1920928244535389e-7,
+      "start": 2.08,
+      "text": "que",
+      "type": "word"
+    },
+    {
+      "end": 2.16,
+      "logprob": -0.0006199345225468278,
+      "start": 2.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.6,
+      "logprob": -0.0003927340504787935,
+      "start": 2.16,
+      "text": "almacena",
+      "type": "word"
+    },
+    {
+      "end": 2.62,
+      "logprob": -0.0000032186455882765586,
+      "start": 2.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.68,
+      "logprob": -0.0000032186455882765586,
+      "start": 2.62,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 2.76,
+      "logprob": -0.0013668728061020374,
+      "start": 2.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.14,
+      "logprob": -0.001094404233390378,
+      "start": 2.76,
+      "text": "BIOS.",
+      "type": "word"
+    },
+    {
+      "end": 3.66,
+      "logprob": -0.000007629365427419543,
+      "start": 3.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.86,
+      "logprob": -0.000007629365427419543,
+      "start": 3.66,
+      "text": "Tengo",
+      "type": "word"
+    },
+    {
+      "end": 4.22,
+      "logprob": -0.00004804019044968299,
+      "start": 3.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.82,
+      "logprob": -0.0000016689280262956647,
+      "start": 4.22,
+      "text": "512",
+      "type": "word"
+    },
+    {
+      "end": 4.86,
+      "logprob": -0.2803120017051697,
+      "start": 4.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.44,
+      "logprob": -0.0971380143115918,
+      "start": 4.86,
+      "text": "kibibytes",
+      "type": "word"
+    },
+    {
+      "end": 5.58,
+      "logprob": -0.0012296028435230255,
+      "start": 5.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.34,
+      "logprob": -0.0007827779784913054,
+      "start": 5.58,
+      "text": "organizados",
+      "type": "word"
+    },
+    {
+      "end": 6.38,
+      "logprob": -1.1920928244535389e-7,
+      "start": 6.34,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.48,
+      "logprob": -1.1920928244535389e-7,
+      "start": 6.38,
+      "text": "en",
+      "type": "word"
+    },
+    {
+      "end": 6.66,
+      "logprob": -0.0003685271949507296,
+      "start": 6.48,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.86,
+      "logprob": -0.0003685271949507296,
+      "start": 6.66,
+      "text": "ocho",
+      "type": "word"
+    },
+    {
+      "end": 6.94,
+      "logprob": -0.000017404405298293568,
+      "start": 6.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.44,
+      "logprob": -0.000017404405298293568,
+      "start": 6.94,
+      "text": "bloques",
+      "type": "word"
+    }
+  ],
+  "referencia": "Soy Romi, la memoria flash que almacena el bios. Tengo quinientos doce kibibytes organizados en ocho bloques.",
+  "errores": 3,
+  "palabras": 17,
+  "wer": 0.17647058823529413
+}

@@ -1,0 +1,538 @@
+{
+  "audio_duration_secs": 14.88,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Yo soy Secu, la lógica de control de la placa base. Activo PSO negada con un cero lógico. Espero la confirmación eléctrica y coordino la liberación del reinicio del procesador. La CPU no comienza hasta completar esa secuencia",
+  "transcription_id": "gD9omwqxBBPt6zNNMKpC",
+  "words": [
+    {
+      "end": 0.18,
+      "logprob": -0.0001003691868390888,
+      "start": 0.1,
+      "text": "Yo",
+      "type": "word"
+    },
+    {
+      "end": 0.24,
+      "logprob": -0.000007986990567587782,
+      "start": 0.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.38,
+      "logprob": -0.000007986990567587782,
+      "start": 0.24,
+      "text": "soy",
+      "type": "word"
+    },
+    {
+      "end": 0.48,
+      "logprob": -1.910731315612793,
+      "start": 0.38,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.82,
+      "logprob": -1.146466564095317,
+      "start": 0.48,
+      "text": "Secu,",
+      "type": "word"
+    },
+    {
+      "end": 1.22,
+      "logprob": -0.0000010728830375228426,
+      "start": 0.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.28,
+      "logprob": -0.0000010728830375228426,
+      "start": 1.22,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 1.34,
+      "logprob": -0.000052689116273541,
+      "start": 1.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.72,
+      "logprob": -0.000052689116273541,
+      "start": 1.34,
+      "text": "lógica",
+      "type": "word"
+    },
+    {
+      "end": 1.74,
+      "logprob": -0.0000016689286894688848,
+      "start": 1.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.8,
+      "logprob": -0.0000016689286894688848,
+      "start": 1.74,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 1.86,
+      "logprob": -0.000005960446742392378,
+      "start": 1.8,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.26,
+      "logprob": -0.000005960446742392378,
+      "start": 1.86,
+      "text": "control",
+      "type": "word"
+    },
+    {
+      "end": 2.3,
+      "logprob": -2.384185506798531e-7,
+      "start": 2.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.36,
+      "logprob": -2.384185506798531e-7,
+      "start": 2.3,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 2.4,
+      "logprob": -3.576278118089249e-7,
+      "start": 2.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.44,
+      "logprob": -3.576278118089249e-7,
+      "start": 2.4,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 2.52,
+      "logprob": -0.00003516612196108326,
+      "start": 2.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.76,
+      "logprob": -0.00003516612196108326,
+      "start": 2.52,
+      "text": "placa",
+      "type": "word"
+    },
+    {
+      "end": 2.82,
+      "logprob": -9.536738616588992e-7,
+      "start": 2.76,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.12,
+      "logprob": -0.000009870321446214802,
+      "start": 2.82,
+      "text": "base.",
+      "type": "word"
+    },
+    {
+      "end": 3.52,
+      "logprob": -0.0003303935518488288,
+      "start": 3.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.94,
+      "logprob": -0.0001862963745224988,
+      "start": 3.52,
+      "text": "Activo",
+      "type": "word"
+    },
+    {
+      "end": 3.98,
+      "logprob": -0.04814016073942184,
+      "start": 3.94,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.56,
+      "logprob": -0.04814016073942184,
+      "start": 3.98,
+      "text": "PSO",
+      "type": "word"
+    },
+    {
+      "end": 4.58,
+      "logprob": -0.00013362467871047556,
+      "start": 4.56,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.14,
+      "logprob": -0.0000673487808739992,
+      "start": 4.58,
+      "text": "negada",
+      "type": "word"
+    },
+    {
+      "end": 5.18,
+      "logprob": -3.576278118089249e-7,
+      "start": 5.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.3,
+      "logprob": -3.576278118089249e-7,
+      "start": 5.18,
+      "text": "con",
+      "type": "word"
+    },
+    {
+      "end": 5.34,
+      "logprob": -3.576278118089249e-7,
+      "start": 5.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.46,
+      "logprob": -3.576278118089249e-7,
+      "start": 5.34,
+      "text": "un",
+      "type": "word"
+    },
+    {
+      "end": 5.5,
+      "logprob": -0.00004708655978902243,
+      "start": 5.46,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.68,
+      "logprob": -0.00004708655978902243,
+      "start": 5.5,
+      "text": "cero",
+      "type": "word"
+    },
+    {
+      "end": 5.74,
+      "logprob": -0.000024437606043647975,
+      "start": 5.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.18,
+      "logprob": -0.010011963290578154,
+      "start": 5.76,
+      "text": "lógico.",
+      "type": "word"
+    },
+    {
+      "end": 6.48,
+      "logprob": -0.00007974783511599526,
+      "start": 6.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.8,
+      "logprob": -0.00007974783511599526,
+      "start": 6.48,
+      "text": "Espero",
+      "type": "word"
+    },
+    {
+      "end": 6.84,
+      "logprob": 0,
+      "start": 6.8,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.92,
+      "logprob": 0,
+      "start": 6.84,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 6.96,
+      "logprob": -0.00003290122185717337,
+      "start": 6.92,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.5,
+      "logprob": -0.000019242049951036695,
+      "start": 6.96,
+      "text": "confirmación",
+      "type": "word"
+    },
+    {
+      "end": 7.56,
+      "logprob": -0.00005686121585313231,
+      "start": 7.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.28,
+      "logprob": -0.00005686121585313231,
+      "start": 7.56,
+      "text": "eléctrica",
+      "type": "word"
+    },
+    {
+      "end": 8.32,
+      "logprob": -1.1920928244535389e-7,
+      "start": 8.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.36,
+      "logprob": -1.1920928244535389e-7,
+      "start": 8.32,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 8.46,
+      "logprob": -0.0007901645149104297,
+      "start": 8.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.96,
+      "logprob": -0.0004981890344879503,
+      "start": 8.46,
+      "text": "coordino",
+      "type": "word"
+    },
+    {
+      "end": 9.02,
+      "logprob": 0,
+      "start": 8.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.06,
+      "logprob": 0,
+      "start": 9.02,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 9.12,
+      "logprob": -0.00012385078298393637,
+      "start": 9.06,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.72,
+      "logprob": -0.00012385078298393637,
+      "start": 9.12,
+      "text": "liberación",
+      "type": "word"
+    },
+    {
+      "end": 9.76,
+      "logprob": 0,
+      "start": 9.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.88,
+      "logprob": 0,
+      "start": 9.76,
+      "text": "del",
+      "type": "word"
+    },
+    {
+      "end": 9.94,
+      "logprob": -0.0000756950321374461,
+      "start": 9.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.4,
+      "logprob": -0.0003454916222835891,
+      "start": 9.94,
+      "text": "reinicio",
+      "type": "word"
+    },
+    {
+      "end": 10.44,
+      "logprob": -1.1920928244535389e-7,
+      "start": 10.4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.52,
+      "logprob": -1.1920928244535389e-7,
+      "start": 10.44,
+      "text": "del",
+      "type": "word"
+    },
+    {
+      "end": 10.6,
+      "logprob": -0.000093455717433244,
+      "start": 10.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.2,
+      "logprob": -0.00005111672955267336,
+      "start": 10.6,
+      "text": "procesador.",
+      "type": "word"
+    },
+    {
+      "end": 11.6,
+      "logprob": -0.000004887569048150908,
+      "start": 11.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.7,
+      "logprob": -0.000004887569048150908,
+      "start": 11.6,
+      "text": "La",
+      "type": "word"
+    },
+    {
+      "end": 11.74,
+      "logprob": -0.00019202772818971425,
+      "start": 11.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.22,
+      "logprob": -0.00019202772818971425,
+      "start": 11.74,
+      "text": "CPU",
+      "type": "word"
+    },
+    {
+      "end": 12.5,
+      "logprob": -2.384185506798531e-7,
+      "start": 12.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.64,
+      "logprob": -2.384185506798531e-7,
+      "start": 12.5,
+      "text": "no",
+      "type": "word"
+    },
+    {
+      "end": 12.68,
+      "logprob": -0.0000014305104514278355,
+      "start": 12.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.16,
+      "logprob": -0.0000014305104514278355,
+      "start": 12.68,
+      "text": "comienza",
+      "type": "word"
+    },
+    {
+      "end": 13.2,
+      "logprob": -1.1920928244535389e-7,
+      "start": 13.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.42,
+      "logprob": -1.1920928244535389e-7,
+      "start": 13.2,
+      "text": "hasta",
+      "type": "word"
+    },
+    {
+      "end": 13.46,
+      "logprob": -0.00006282132380874828,
+      "start": 13.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.9,
+      "logprob": -0.00006282132380874828,
+      "start": 13.46,
+      "text": "completar",
+      "type": "word"
+    },
+    {
+      "end": 13.94,
+      "logprob": -0.000004768360213347478,
+      "start": 13.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.1,
+      "logprob": -0.000004768360213347478,
+      "start": 13.94,
+      "text": "esa",
+      "type": "word"
+    },
+    {
+      "end": 14.16,
+      "logprob": -0.000015139465176616795,
+      "start": 14.1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.68,
+      "logprob": -0.000015139465176616795,
+      "start": 14.16,
+      "text": "secuencia",
+      "type": "word"
+    }
+  ],
+  "referencia": "Yo soy Secu, la lógica de control de la placa base. Activo pe ese on negada con un cero lógico, espero la confirmación eléctrica y coordino la liberación del reinicio del procesador. La ce pe u no comienza hasta completar esa secuencia.",
+  "errores": 6,
+  "palabras": 42,
+  "wer": 0.14285714285714285
+}

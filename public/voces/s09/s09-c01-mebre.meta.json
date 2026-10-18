@@ -1,0 +1,16 @@
+{
+  "cueId": "S09-C01",
+  "mascotId": "mebre",
+  "voiceId": "x5IDPSl4ZUbhosMmVFTk",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "6fc44497565d28baff58d9268ee3a472913738f8749fcb580679b7fc10865112",
+  "chars": 321,
+  "durationMs": 21280,
+  "fecha": "2026-10-18T14:40:39.984Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

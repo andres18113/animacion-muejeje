@@ -1,0 +1,188 @@
+{
+  "audio_duration_secs": 4.72,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Yo soy BIOS, el programa que ejecuta la CPU para preparar el computador",
+  "transcription_id": "sU0OuXOkbctONNoAZIad",
+  "words": [
+    {
+      "end": 0.18,
+      "logprob": -0.00004637133679352701,
+      "start": 0.1,
+      "text": "Yo",
+      "type": "word"
+    },
+    {
+      "end": 0.26,
+      "logprob": -0.000003576272320060525,
+      "start": 0.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.38,
+      "logprob": -0.000003576272320060525,
+      "start": 0.26,
+      "text": "soy",
+      "type": "word"
+    },
+    {
+      "end": 0.46,
+      "logprob": -0.0011306566884741187,
+      "start": 0.38,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.8,
+      "logprob": -0.000951416787574999,
+      "start": 0.46,
+      "text": "BIOS,",
+      "type": "word"
+    },
+    {
+      "end": 1.2,
+      "logprob": -0.0000010728830375228426,
+      "start": 0.8,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.26,
+      "logprob": -0.0000010728830375228426,
+      "start": 1.2,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 1.34,
+      "logprob": -0.000012278481335670222,
+      "start": 1.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.7,
+      "logprob": -0.000012278481335670222,
+      "start": 1.34,
+      "text": "programa",
+      "type": "word"
+    },
+    {
+      "end": 1.78,
+      "logprob": 0,
+      "start": 1.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.86,
+      "logprob": 0,
+      "start": 1.78,
+      "text": "que",
+      "type": "word"
+    },
+    {
+      "end": 1.88,
+      "logprob": -0.00016902448260225356,
+      "start": 1.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.36,
+      "logprob": -0.00016902448260225356,
+      "start": 1.88,
+      "text": "ejecuta",
+      "type": "word"
+    },
+    {
+      "end": 2.4,
+      "logprob": -7.152555099310121e-7,
+      "start": 2.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.48,
+      "logprob": -7.152555099310121e-7,
+      "start": 2.4,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 2.6,
+      "logprob": -0.00011932138295378536,
+      "start": 2.48,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.22,
+      "logprob": -0.00011932138295378536,
+      "start": 2.6,
+      "text": "CPU",
+      "type": "word"
+    },
+    {
+      "end": 3.24,
+      "logprob": -0.0000010728830375228426,
+      "start": 3.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.44,
+      "logprob": -0.0000010728830375228426,
+      "start": 3.26,
+      "text": "para",
+      "type": "word"
+    },
+    {
+      "end": 3.46,
+      "logprob": -0.00001645074735279195,
+      "start": 3.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.84,
+      "logprob": -0.00001645074735279195,
+      "start": 3.46,
+      "text": "preparar",
+      "type": "word"
+    },
+    {
+      "end": 3.88,
+      "logprob": -2.384185506798531e-7,
+      "start": 3.84,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.98,
+      "logprob": -2.384185506798531e-7,
+      "start": 3.88,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 4,
+      "logprob": -0.002436052542179823,
+      "start": 3.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.56,
+      "logprob": -0.002436052542179823,
+      "start": 4,
+      "text": "computador",
+      "type": "word"
+    }
+  ],
+  "referencia": "Yo soy Bios, el programa que ejecuta la ce pe u para preparar el computador.",
+  "errores": 3,
+  "palabras": 15,
+  "wer": 0.2
+}

@@ -1,0 +1,345 @@
+[
+  {
+    "text": " Cargo",
+    "startMs": 0,
+    "endMs": 320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 360,
+    "endMs": 400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " imagen",
+    "startMs": 600,
+    "endMs": 800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " del",
+    "startMs": 880,
+    "endMs": 960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " kernel",
+    "startMs": 1040,
+    "endMs": 1440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " desde",
+    "startMs": 1520,
+    "endMs": 1680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 1720,
+    "endMs": 1760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " disco",
+    "startMs": 1840,
+    "endMs": 2240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " hacia",
+    "startMs": 2320,
+    "endMs": 2560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " RAM",
+    "startMs": 2640,
+    "endMs": 2960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 3120,
+    "endMs": 3200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " preparo",
+    "startMs": 3280,
+    "endMs": 3600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " sus",
+    "startMs": 3720,
+    "endMs": 3840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " parámetros",
+    "startMs": 3920,
+    "endMs": 4320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 4360,
+    "endMs": 4400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " arranque.",
+    "startMs": 4480,
+    "endMs": 5160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " El",
+    "startMs": 5440,
+    "endMs": 5600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " código",
+    "startMs": 5707,
+    "endMs": 5920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 5960,
+    "endMs": 6000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " inicio",
+    "startMs": 6240,
+    "endMs": 6480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " establece",
+    "startMs": 6560,
+    "endMs": 6960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 7040,
+    "endMs": 7120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " entorno",
+    "startMs": 7240,
+    "endMs": 7600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " necesario",
+    "startMs": 7640,
+    "endMs": 8240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 8320,
+    "endMs": 8400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ejecutar",
+    "startMs": 8480,
+    "endMs": 8880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " instrucciones",
+    "startMs": 9000,
+    "endMs": 9600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 9640,
+    "endMs": 9680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " treinta",
+    "startMs": 9760,
+    "endMs": 10000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 10080,
+    "endMs": 10160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " dos",
+    "startMs": 10240,
+    "endMs": 10320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " bits,",
+    "startMs": 10400,
+    "endMs": 11040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " incluido",
+    "startMs": 11160,
+    "endMs": 11600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 11680,
+    "endMs": 11760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " modo",
+    "startMs": 11840,
+    "endMs": 12000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " protegido.",
+    "startMs": 12080,
+    "endMs": 12960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Finalmente",
+    "startMs": 13280,
+    "endMs": 13840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cedo",
+    "startMs": 13920,
+    "endMs": 14213,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 14267,
+    "endMs": 14320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " control",
+    "startMs": 14520,
+    "endMs": 14720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " al",
+    "startMs": 14800,
+    "endMs": 14880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " punto",
+    "startMs": 14960,
+    "endMs": 15200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 15240,
+    "endMs": 15280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " entrada",
+    "startMs": 15480,
+    "endMs": 15680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " previsto",
+    "startMs": 15800,
+    "endMs": 16160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " por",
+    "startMs": 16239.999999999998,
+    "endMs": 16320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 16400,
+    "endMs": 16440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " protocolo",
+    "startMs": 16480,
+    "endMs": 17000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Linux.",
+    "startMs": 17040,
+    "endMs": 17680,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

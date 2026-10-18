@@ -1,0 +1,16 @@
+{
+  "cueId": "S04-C01",
+  "mascotId": "romi",
+  "voiceId": "2rigMbVWLdqtBSCahJFX",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "e36876894426ea7b6c53904f3f45cb8c12b55f843d6828be7a24098f89cdaf0f",
+  "chars": 109,
+  "durationMs": 7680,
+  "fecha": "2026-10-18T14:37:53.782Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

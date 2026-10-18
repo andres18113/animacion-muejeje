@@ -1,0 +1,16 @@
+{
+  "cueId": "S05-C03",
+  "mascotId": "rami",
+  "voiceId": "rEVYTKPqwSMhytFPayIb",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "fdab7cdd5e97553439c1be067989366d5567f5e9ae4f1e9b4d08d56c03cea8b8",
+  "chars": 171,
+  "durationMs": 11440,
+  "fecha": "2026-10-18T14:37:54.019Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

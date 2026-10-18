@@ -1,0 +1,387 @@
+[
+  {
+    "text": " Soy",
+    "startMs": 0,
+    "endMs": 240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Mebre,",
+    "startMs": 320,
+    "endMs": 960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 1000,
+    "endMs": 1040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " registro",
+    "startMs": 1120,
+    "endMs": 1520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " maestro",
+    "startMs": 1600,
+    "endMs": 2000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 2080,
+    "endMs": 2120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " arranque",
+    "startMs": 2160,
+    "endMs": 2720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 2800,
+    "endMs": 2960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " MBR.",
+    "startMs": 3120,
+    "endMs": 4400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Mis",
+    "startMs": 4640,
+    "endMs": 4800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " quinientos",
+    "startMs": 4880,
+    "endMs": 5280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " doce",
+    "startMs": 5360,
+    "endMs": 5520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " bytes",
+    "startMs": 5680,
+    "endMs": 6080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " contienen",
+    "startMs": 6200,
+    "endMs": 6560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 6640,
+    "endMs": 6720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " área",
+    "startMs": 6760,
+    "endMs": 6960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 7000,
+    "endMs": 7040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " código,",
+    "startMs": 7200,
+    "endMs": 7840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 7920,
+    "endMs": 8080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " tabla",
+    "startMs": 8160,
+    "endMs": 8480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 8520,
+    "endMs": 8560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cuatro",
+    "startMs": 8720,
+    "endMs": 8960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " entradas",
+    "startMs": 9040,
+    "endMs": 9440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 9480,
+    "endMs": 9520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " partición",
+    "startMs": 9600,
+    "endMs": 10240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 10400,
+    "endMs": 10480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 10520,
+    "endMs": 10560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " firma",
+    "startMs": 10720,
+    "endMs": 10960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " final",
+    "startMs": 11040,
+    "endMs": 11360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cincuenta",
+    "startMs": 11440,
+    "endMs": 11840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 11920,
+    "endMs": 12000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cinco,",
+    "startMs": 12080,
+    "endMs": 12640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " A",
+    "startMs": 12720,
+    "endMs": 12800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " A.",
+    "startMs": 12960,
+    "endMs": 13200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " En",
+    "startMs": 13680,
+    "endMs": 13760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " nuestro",
+    "startMs": 13800,
+    "endMs": 14160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " disco,",
+    "startMs": 14280,
+    "endMs": 14800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 14880,
+    "endMs": 14960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " área",
+    "startMs": 15000,
+    "endMs": 15120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ejecutable",
+    "startMs": 15200,
+    "endMs": 15840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " contiene",
+    "startMs": 15920,
+    "endMs": 16320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 16400,
+    "endMs": 16480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " primera",
+    "startMs": 16560,
+    "endMs": 16960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " etapa",
+    "startMs": 17080,
+    "endMs": 17360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 17440,
+    "endMs": 17520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " GRUB,",
+    "startMs": 17600,
+    "endMs": 18160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 18200,
+    "endMs": 18240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " recibe",
+    "startMs": 18320,
+    "endMs": 18640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 18680,
+    "endMs": 18720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " control",
+    "startMs": 18800,
+    "endMs": 19200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cuando",
+    "startMs": 19280,
+    "endMs": 19440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " termina",
+    "startMs": 19520,
+    "endMs": 20000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 20040,
+    "endMs": 20080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " lectura",
+    "startMs": 20160,
+    "endMs": 20560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " BIOS.",
+    "startMs": 20640,
+    "endMs": 21280,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

@@ -1,0 +1,223 @@
+{
+  "lineaBase": "SO-ARR-BIOS-001 v2.0.0",
+  "hito": "H01 Diseño de mascotas",
+  "totalPersonajes": 15,
+  "expresiones": [
+    "neutral",
+    "hablando",
+    "alerta"
+  ],
+  "resolucionBase": "512x512 viewBox; SVG transparente",
+  "personajes": [
+    {
+      "id": "voltio",
+      "code": "M01",
+      "name": "Voltio",
+      "type": "hardware",
+      "title": "Fuente ATX",
+      "color": "#86AFBD",
+      "detail": "Alimentación, +5VSB, PS_ON# y PWR_OK",
+      "label": "ATX",
+      "face": [
+        266,
+        277
+      ]
+    },
+    {
+      "id": "pulso",
+      "code": "M02",
+      "name": "Pulso",
+      "type": "hardware",
+      "title": "Botón de encendido",
+      "color": "#EB8F6E",
+      "detail": "Solicitud de encendido de la placa base",
+      "label": "PWR",
+      "face": [
+        256,
+        215
+      ]
+    },
+    {
+      "id": "secu",
+      "code": "M03",
+      "name": "Secu",
+      "type": "hardware",
+      "title": "Lógica de placa base",
+      "color": "#74AE9F",
+      "detail": "Control de alimentación y liberación de RESET",
+      "label": "RESET",
+      "face": [
+        254,
+        278
+      ]
+    },
+    {
+      "id": "cipu",
+      "code": "M04",
+      "name": "Cipu",
+      "type": "hardware",
+      "title": "Pentium II x86",
+      "color": "#90A7C4",
+      "detail": "Obtención y ejecución de instrucciones",
+      "label": "P II",
+      "face": [
+        255,
+        266
+      ]
+    },
+    {
+      "id": "romi",
+      "code": "M05",
+      "name": "Romi",
+      "type": "hardware",
+      "title": "Flash paralela BIOS",
+      "color": "#8E99AD",
+      "detail": "512 KiB; ocho bloques de 64 KiB",
+      "label": "4 Mbit",
+      "face": [
+        257,
+        277
+      ]
+    },
+    {
+      "id": "bios",
+      "code": "M06",
+      "name": "Bios",
+      "type": "firmware",
+      "title": "Firmware BIOS",
+      "color": "#A49BD9",
+      "detail": "Código de arranque, rutinas y servicios BIOS",
+      "label": "BIOS",
+      "face": [
+        255,
+        285
+      ]
+    },
+    {
+      "id": "cmosi",
+      "code": "M07",
+      "name": "Cmosi",
+      "type": "datos",
+      "title": "CMOS / RTC",
+      "color": "#D8B577",
+      "detail": "Memoria respaldada por batería, configuración",
+      "label": "CMOS",
+      "face": [
+        265,
+        288
+      ]
+    },
+    {
+      "id": "spedi",
+      "code": "M08",
+      "name": "Spedi",
+      "type": "datos",
+      "title": "EEPROM SPD",
+      "color": "#E5BE71",
+      "detail": "Características del módulo SDRAM",
+      "label": "SPD",
+      "face": [
+        257,
+        278
+      ]
+    },
+    {
+      "id": "rami",
+      "code": "M09",
+      "name": "Rami",
+      "type": "hardware",
+      "title": "SDRAM PC100",
+      "color": "#72B5A0",
+      "detail": "128 MiB de memoria temporal (línea base)",
+      "label": "PC100",
+      "face": [
+        256,
+        295
+      ]
+    },
+    {
+      "id": "postin",
+      "code": "M10",
+      "name": "Postín",
+      "type": "firmware",
+      "title": "Rutinas POST",
+      "color": "#D8B88C",
+      "detail": "Inicialización, comprobaciones y diagnóstico",
+      "label": "POST",
+      "face": [
+        260,
+        283
+      ]
+    },
+    {
+      "id": "disqui",
+      "code": "M11",
+      "name": "Disqui",
+      "type": "hardware",
+      "title": "Disco IDE / ATA",
+      "color": "#9DA9BE",
+      "detail": "Lectura de sectores de 512 bytes",
+      "label": "IDE",
+      "face": [
+        277,
+        302
+      ]
+    },
+    {
+      "id": "mebre",
+      "code": "M12",
+      "name": "Mebre",
+      "type": "datos",
+      "title": "Sector MBR",
+      "color": "#E5BA81",
+      "detail": "Código inicial, cuatro entradas y firma 55 AA",
+      "label": "MBR",
+      "face": [
+        257,
+        284
+      ]
+    },
+    {
+      "id": "grubi",
+      "code": "M13",
+      "name": "Grubi",
+      "type": "software",
+      "title": "GRUB Legacy",
+      "color": "#9C9BD1",
+      "detail": "Stage 1 → Stage 1.5 → Stage 2",
+      "label": "GRUB",
+      "face": [
+        257,
+        285
+      ]
+    },
+    {
+      "id": "nucleo",
+      "code": "M14",
+      "name": "Núcleo",
+      "type": "software",
+      "title": "Kernel Linux",
+      "color": "#93BDD3",
+      "detail": "Toma el control, inicializa subsistemas",
+      "label": "KERNEL",
+      "face": [
+        256,
+        285
+      ]
+    },
+    {
+      "id": "init",
+      "code": "M15",
+      "name": "Init",
+      "type": "software",
+      "title": "Proceso PID 1",
+      "color": "#A5CB96",
+      "detail": "Primer proceso del espacio de usuario",
+      "label": "PID 1",
+      "face": [
+        255,
+        288
+      ]
+    }
+  ]
+}

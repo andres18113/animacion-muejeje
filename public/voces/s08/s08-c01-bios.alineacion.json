@@ -1,0 +1,331 @@
+[
+  {
+    "text": " Para",
+    "startMs": 0,
+    "endMs": 140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " leer",
+    "startMs": 160,
+    "endMs": 360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 400,
+    "endMs": 520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " disco",
+    "startMs": 560,
+    "endMs": 880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " utilizo",
+    "startMs": 960,
+    "endMs": 1440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " servicios",
+    "startMs": 1520,
+    "endMs": 2000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 2040,
+    "endMs": 2080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 2120,
+    "endMs": 2160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " interrupción",
+    "startMs": 2240,
+    "endMs": 2720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " trece",
+    "startMs": 2880,
+    "endMs": 3200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " hexadecimal.",
+    "startMs": 3320,
+    "endMs": 4200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Identifico",
+    "startMs": 4400,
+    "endMs": 4920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 4960,
+    "endMs": 5040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " primer",
+    "startMs": 5200,
+    "endMs": 5360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " disco",
+    "startMs": 5440,
+    "endMs": 5680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " duro",
+    "startMs": 5760,
+    "endMs": 6000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " con",
+    "startMs": 6080,
+    "endMs": 6160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 6200,
+    "endMs": 6240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " valor",
+    "startMs": 6320,
+    "endMs": 6560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ochenta",
+    "startMs": 6720,
+    "endMs": 7200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " hexadecimal",
+    "startMs": 7320,
+    "endMs": 7920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 8240,
+    "endMs": 8320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " leo",
+    "startMs": 8440,
+    "endMs": 8560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " su",
+    "startMs": 8640,
+    "endMs": 8720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " sector",
+    "startMs": 8880,
+    "endMs": 9040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " inicial",
+    "startMs": 9120,
+    "endMs": 9520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 9560,
+    "endMs": 9600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " quinientos",
+    "startMs": 9760,
+    "endMs": 10240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " doce",
+    "startMs": 10320,
+    "endMs": 10560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " bytes.",
+    "startMs": 10640,
+    "endMs": 11240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Coloco",
+    "startMs": 11440,
+    "endMs": 11680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " esos",
+    "startMs": 11760,
+    "endMs": 12000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " bytes",
+    "startMs": 12160,
+    "endMs": 12320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " en",
+    "startMs": 12360,
+    "endMs": 12400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " memoria,",
+    "startMs": 12520,
+    "endMs": 13040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " en",
+    "startMs": 13080,
+    "endMs": 13120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 13200,
+    "endMs": 13240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " dirección",
+    "startMs": 13280,
+    "endMs": 13760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " siete",
+    "startMs": 13920,
+    "endMs": 14160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " C",
+    "startMs": 14320,
+    "endMs": 14560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cero",
+    "startMs": 14640,
+    "endMs": 14800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " cero",
+    "startMs": 14960,
+    "endMs": 15040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " hexadecimal,",
+    "startMs": 15160,
+    "endMs": 15880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 15920,
+    "endMs": 16079.999999999998,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " preparar",
+    "startMs": 16160,
+    "endMs": 16480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " su",
+    "startMs": 16560,
+    "endMs": 16640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ejecución.",
+    "startMs": 16680,
+    "endMs": 17440,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

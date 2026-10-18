@@ -1,0 +1,16 @@
+{
+  "cueId": "S05-C02",
+  "mascotId": "spedi",
+  "voiceId": "iFhPOZcajR7W3sDL39qJ",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "092fc0239a8e2c05864049a59b90bd5d439e9b6ee86a4d6bbd83c0061340c7f6",
+  "chars": 97,
+  "durationMs": 7600,
+  "fecha": "2026-10-18T14:37:53.969Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "cueId": "S05-C01",
+  "mascotId": "postin",
+  "voiceId": "zQZEXxkYK67Wxt8JAph5",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "8b862ba4df31dcf02769eebf11d3821235662cf76c265e62f5e1641e78392be9",
+  "chars": 190,
+  "durationMs": 13440,
+  "fecha": "2026-10-18T14:37:53.923Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

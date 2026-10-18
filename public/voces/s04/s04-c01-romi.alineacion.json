@@ -1,0 +1,121 @@
+[
+  {
+    "text": " Soy",
+    "startMs": 0,
+    "endMs": 240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Romi,",
+    "startMs": 320,
+    "endMs": 1040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 1080,
+    "endMs": 1120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " memoria",
+    "startMs": 1200,
+    "endMs": 1600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " flash",
+    "startMs": 1680,
+    "endMs": 2000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 2040,
+    "endMs": 2080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " almacena",
+    "startMs": 2160,
+    "endMs": 2560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 2600,
+    "endMs": 2640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " BIOS.",
+    "startMs": 2720,
+    "endMs": 3600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Tengo",
+    "startMs": 3680,
+    "endMs": 3840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " quinientos",
+    "startMs": 3920,
+    "endMs": 4480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " doce",
+    "startMs": 4560,
+    "endMs": 4720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " kibibytes",
+    "startMs": 4800,
+    "endMs": 5440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " organizados",
+    "startMs": 5520,
+    "endMs": 6240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " en",
+    "startMs": 6320,
+    "endMs": 6560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ocho",
+    "startMs": 6640,
+    "endMs": 6800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " bloques.",
+    "startMs": 6880,
+    "endMs": 7680,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

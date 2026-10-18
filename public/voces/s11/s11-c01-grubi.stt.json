@@ -1,0 +1,664 @@
+{
+  "audio_duration_secs": 17.68,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Cargo la imagen del kernel desde el disco hacia RAM y preparo sus parámetros de arranque. El código de inicio establece el entorno necesario para ejecutar instrucciones de 32 bits, incluido el modo protegido. Finalmente, cedo el control al punto de entrada previsto por el protocolo Linux",
+  "transcription_id": "bMNm6BM30z2lJa6USyri",
+  "words": [
+    {
+      "end": 0.3,
+      "logprob": -0.021717822179198265,
+      "start": 0.06,
+      "text": "Cargo",
+      "type": "word"
+    },
+    {
+      "end": 0.36,
+      "logprob": -1.1920928244535389e-7,
+      "start": 0.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.4,
+      "logprob": -1.1920928244535389e-7,
+      "start": 0.36,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 0.46,
+      "logprob": -0.0003432638186495751,
+      "start": 0.4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.82,
+      "logprob": -0.0003432638186495751,
+      "start": 0.46,
+      "text": "imagen",
+      "type": "word"
+    },
+    {
+      "end": 0.86,
+      "logprob": -2.384185506798531e-7,
+      "start": 0.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.98,
+      "logprob": -2.384185506798531e-7,
+      "start": 0.86,
+      "text": "del",
+      "type": "word"
+    },
+    {
+      "end": 1.08,
+      "logprob": -0.000912488321773708,
+      "start": 0.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.42,
+      "logprob": -0.000912488321773708,
+      "start": 1.08,
+      "text": "kernel",
+      "type": "word"
+    },
+    {
+      "end": 1.5,
+      "logprob": -0.0000034570634852570947,
+      "start": 1.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.7,
+      "logprob": -0.0000034570634852570947,
+      "start": 1.5,
+      "text": "desde",
+      "type": "word"
+    },
+    {
+      "end": 1.74,
+      "logprob": -5.960462772236497e-7,
+      "start": 1.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.8,
+      "logprob": -5.960462772236497e-7,
+      "start": 1.74,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 1.86,
+      "logprob": -0.000005960446742392378,
+      "start": 1.8,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.32,
+      "logprob": -0.000005960446742392378,
+      "start": 1.86,
+      "text": "disco",
+      "type": "word"
+    },
+    {
+      "end": 2.34,
+      "logprob": -8.344646857949556e-7,
+      "start": 2.32,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.62,
+      "logprob": -8.344646857949556e-7,
+      "start": 2.34,
+      "text": "hacia",
+      "type": "word"
+    },
+    {
+      "end": 2.68,
+      "logprob": -0.00009905801562126726,
+      "start": 2.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.96,
+      "logprob": -0.00009905801562126726,
+      "start": 2.68,
+      "text": "RAM",
+      "type": "word"
+    },
+    {
+      "end": 3.2,
+      "logprob": -8.344646857949556e-7,
+      "start": 2.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.22,
+      "logprob": -8.344646857949556e-7,
+      "start": 3.2,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 3.3,
+      "logprob": -0.00008880697714630514,
+      "start": 3.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.62,
+      "logprob": -0.0000761372960228966,
+      "start": 3.3,
+      "text": "preparo",
+      "type": "word"
+    },
+    {
+      "end": 3.68,
+      "logprob": -0.0000058412379075889476,
+      "start": 3.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.86,
+      "logprob": -0.0000058412379075889476,
+      "start": 3.68,
+      "text": "sus",
+      "type": "word"
+    },
+    {
+      "end": 3.88,
+      "logprob": -0.00011634149996098132,
+      "start": 3.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.36,
+      "logprob": -0.00011634149996098132,
+      "start": 3.88,
+      "text": "parámetros",
+      "type": "word"
+    },
+    {
+      "end": 4.38,
+      "logprob": 0,
+      "start": 4.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.42,
+      "logprob": 0,
+      "start": 4.38,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 4.46,
+      "logprob": -0.000007986990567587782,
+      "start": 4.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.86,
+      "logprob": -0.00000823865229904186,
+      "start": 4.46,
+      "text": "arranque.",
+      "type": "word"
+    },
+    {
+      "end": 5.52,
+      "logprob": -0.000005245195097813848,
+      "start": 4.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.62,
+      "logprob": -0.000005245195097813848,
+      "start": 5.52,
+      "text": "El",
+      "type": "word"
+    },
+    {
+      "end": 5.64,
+      "logprob": -0.000005602820692729438,
+      "start": 5.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.92,
+      "logprob": -0.000005602820692729438,
+      "start": 5.66,
+      "text": "código",
+      "type": "word"
+    },
+    {
+      "end": 5.96,
+      "logprob": -2.384185506798531e-7,
+      "start": 5.92,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.02,
+      "logprob": -2.384185506798531e-7,
+      "start": 5.96,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 6.06,
+      "logprob": -0.00003421248038648628,
+      "start": 6.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.5,
+      "logprob": -0.00003421248038648628,
+      "start": 6.06,
+      "text": "inicio",
+      "type": "word"
+    },
+    {
+      "end": 6.54,
+      "logprob": -0.00011359999916749076,
+      "start": 6.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.02,
+      "logprob": -0.00011359999916749076,
+      "start": 6.54,
+      "text": "establece",
+      "type": "word"
+    },
+    {
+      "end": 7.06,
+      "logprob": -2.384185506798531e-7,
+      "start": 7.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.12,
+      "logprob": -2.384185506798531e-7,
+      "start": 7.06,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 7.18,
+      "logprob": -0.0000040531076592742465,
+      "start": 7.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.6,
+      "logprob": -0.0000040531076592742465,
+      "start": 7.18,
+      "text": "entorno",
+      "type": "word"
+    },
+    {
+      "end": 7.68,
+      "logprob": -0.000033854863431770355,
+      "start": 7.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.3,
+      "logprob": -0.000033854863431770355,
+      "start": 7.68,
+      "text": "necesario",
+      "type": "word"
+    },
+    {
+      "end": 8.34,
+      "logprob": -8.344646857949556e-7,
+      "start": 8.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.44,
+      "logprob": -8.344646857949556e-7,
+      "start": 8.34,
+      "text": "para",
+      "type": "word"
+    },
+    {
+      "end": 8.48,
+      "logprob": -0.00018463814922142777,
+      "start": 8.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.92,
+      "logprob": -0.00018463814922142777,
+      "start": 8.48,
+      "text": "ejecutar",
+      "type": "word"
+    },
+    {
+      "end": 8.96,
+      "logprob": -0.00011538793478393929,
+      "start": 8.92,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.6,
+      "logprob": -0.00011538793478393929,
+      "start": 8.96,
+      "text": "instrucciones",
+      "type": "word"
+    },
+    {
+      "end": 9.64,
+      "logprob": -3.576278118089249e-7,
+      "start": 9.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.74,
+      "logprob": -3.576278118089249e-7,
+      "start": 9.64,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 9.88,
+      "logprob": -0.5235859155654907,
+      "start": 9.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.4,
+      "logprob": -8.940689859571194e-7,
+      "start": 9.9,
+      "text": "32",
+      "type": "word"
+    },
+    {
+      "end": 10.46,
+      "logprob": -0.00008737658936297521,
+      "start": 10.4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.72,
+      "logprob": -0.00009855713287834078,
+      "start": 10.46,
+      "text": "bits,",
+      "type": "word"
+    },
+    {
+      "end": 11.12,
+      "logprob": -0.00012396997772157192,
+      "start": 10.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.7,
+      "logprob": -0.00012396997772157192,
+      "start": 11.12,
+      "text": "incluido",
+      "type": "word"
+    },
+    {
+      "end": 11.74,
+      "logprob": -5.960462772236497e-7,
+      "start": 11.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.82,
+      "logprob": -5.960462772236497e-7,
+      "start": 11.74,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 11.88,
+      "logprob": -0.000040411134250462055,
+      "start": 11.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.04,
+      "logprob": -0.000040411134250462055,
+      "start": 11.88,
+      "text": "modo",
+      "type": "word"
+    },
+    {
+      "end": 12.12,
+      "logprob": -0.0000821318244561553,
+      "start": 12.04,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.64,
+      "logprob": -0.00007401400939670566,
+      "start": 12.12,
+      "text": "protegido.",
+      "type": "word"
+    },
+    {
+      "end": 13.3,
+      "logprob": -0.0000598412734689191,
+      "start": 12.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.84,
+      "logprob": -0.0003107943894891915,
+      "start": 13.3,
+      "text": "Finalmente,",
+      "type": "word"
+    },
+    {
+      "end": 14,
+      "logprob": -0.0032522189430892467,
+      "start": 13.84,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.2,
+      "logprob": -0.0032522189430892467,
+      "start": 14,
+      "text": "cedo",
+      "type": "word"
+    },
+    {
+      "end": 14.24,
+      "logprob": -0.000005602820692729438,
+      "start": 14.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.28,
+      "logprob": -0.000005602820692729438,
+      "start": 14.24,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 14.36,
+      "logprob": -9.536738616588992e-7,
+      "start": 14.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.74,
+      "logprob": -9.536738616588992e-7,
+      "start": 14.36,
+      "text": "control",
+      "type": "word"
+    },
+    {
+      "end": 14.78,
+      "logprob": -5.960462772236497e-7,
+      "start": 14.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 14.86,
+      "logprob": -5.960462772236497e-7,
+      "start": 14.78,
+      "text": "al",
+      "type": "word"
+    },
+    {
+      "end": 14.96,
+      "logprob": -0.0000032186455882765586,
+      "start": 14.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.22,
+      "logprob": -0.0000032186455882765586,
+      "start": 14.96,
+      "text": "punto",
+      "type": "word"
+    },
+    {
+      "end": 15.26,
+      "logprob": -2.384185506798531e-7,
+      "start": 15.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.3,
+      "logprob": -2.384185506798531e-7,
+      "start": 15.26,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 15.32,
+      "logprob": -0.000003099436753473128,
+      "start": 15.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.66,
+      "logprob": -0.000003099436753473128,
+      "start": 15.32,
+      "text": "entrada",
+      "type": "word"
+    },
+    {
+      "end": 15.74,
+      "logprob": -0.00013124081306159496,
+      "start": 15.66,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.2,
+      "logprob": -0.00013124081306159496,
+      "start": 15.74,
+      "text": "previsto",
+      "type": "word"
+    },
+    {
+      "end": 16.3,
+      "logprob": 0,
+      "start": 16.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.379,
+      "logprob": 0,
+      "start": 16.3,
+      "text": "por",
+      "type": "word"
+    },
+    {
+      "end": 16.42,
+      "logprob": -1.1920928244535389e-7,
+      "start": 16.379,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.52,
+      "logprob": -1.1920928244535389e-7,
+      "start": 16.42,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 16.54,
+      "logprob": -0.0020242691971361637,
+      "start": 16.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.02,
+      "logprob": -0.0020242691971361637,
+      "start": 16.54,
+      "text": "protocolo",
+      "type": "word"
+    },
+    {
+      "end": 17.08,
+      "logprob": -0.000030636318115284666,
+      "start": 17.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.5,
+      "logprob": -0.000030636318115284666,
+      "start": 17.08,
+      "text": "Linux",
+      "type": "word"
+    }
+  ],
+  "referencia": "Cargo la imagen del kernel desde el disco hacia ram y preparo sus parámetros de arranque. El código de inicio establece el entorno necesario para ejecutar instrucciones de treinta y dos bits, incluido el modo protegido. Finalmente cedo el control al punto de entrada previsto por el protocolo Linux.",
+  "errores": 3,
+  "palabras": 49,
+  "wer": 0.061224489795918366
+}

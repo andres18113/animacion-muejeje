@@ -1,0 +1,93 @@
+[
+  {
+    "text": " Yo",
+    "startMs": 0,
+    "endMs": 160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " soy",
+    "startMs": 240,
+    "endMs": 360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Bios,",
+    "startMs": 400,
+    "endMs": 1120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 1200,
+    "endMs": 1280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " programa",
+    "startMs": 1440,
+    "endMs": 1680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 1760,
+    "endMs": 1840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ejecuta",
+    "startMs": 1880,
+    "endMs": 2320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 2400,
+    "endMs": 2480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " CPU",
+    "startMs": 2560,
+    "endMs": 3120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 3200,
+    "endMs": 3360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " preparar",
+    "startMs": 3440,
+    "endMs": 3840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 3880,
+    "endMs": 3920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " computador.",
+    "startMs": 4000,
+    "endMs": 4720,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

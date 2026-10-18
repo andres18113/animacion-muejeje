@@ -1,0 +1,384 @@
+{
+  "audio_duration_secs": 11.44,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Y yo soy Rami, la S de RAM. El controlador debe configurarme y verificar que puedo almacenar información. Si falla una comprobación crítica, el arranque puede detenerse",
+  "transcription_id": "x7AgSlLH17E6Q026dLrd",
+  "words": [
+    {
+      "end": 0.14,
+      "logprob": -0.000017762025890988298,
+      "start": 0.08,
+      "text": "Y",
+      "type": "word"
+    },
+    {
+      "end": 0.22,
+      "logprob": -0.000003576272320060525,
+      "start": 0.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.32,
+      "logprob": -0.000003576272320060525,
+      "start": 0.22,
+      "text": "yo",
+      "type": "word"
+    },
+    {
+      "end": 0.42,
+      "logprob": -0.000011920858014491388,
+      "start": 0.32,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.58,
+      "logprob": -0.000011920858014491388,
+      "start": 0.42,
+      "text": "soy",
+      "type": "word"
+    },
+    {
+      "end": 0.64,
+      "logprob": -0.28832757472991943,
+      "start": 0.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.98,
+      "logprob": -0.23082909759832543,
+      "start": 0.64,
+      "text": "Rami,",
+      "type": "word"
+    },
+    {
+      "end": 1.4,
+      "logprob": -0.000010251946150674485,
+      "start": 0.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.5,
+      "logprob": -0.000010251946150674485,
+      "start": 1.4,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 1.74,
+      "logprob": -0.0005161621957086027,
+      "start": 1.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.78,
+      "logprob": -0.0005161621957086027,
+      "start": 1.74,
+      "text": "S",
+      "type": "word"
+    },
+    {
+      "end": 1.92,
+      "logprob": -5.960462772236497e-7,
+      "start": 1.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2,
+      "logprob": -5.960462772236497e-7,
+      "start": 1.92,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 2.1,
+      "logprob": -0.016422461718320847,
+      "start": 2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.38,
+      "logprob": -0.012331538401667784,
+      "start": 2.1,
+      "text": "RAM.",
+      "type": "word"
+    },
+    {
+      "end": 2.76,
+      "logprob": -0.000004887569048150908,
+      "start": 2.38,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.84,
+      "logprob": -0.000004887569048150908,
+      "start": 2.78,
+      "text": "El",
+      "type": "word"
+    },
+    {
+      "end": 2.92,
+      "logprob": -0.0002276638260809705,
+      "start": 2.84,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.5,
+      "logprob": -0.0002276638260809705,
+      "start": 2.92,
+      "text": "controlador",
+      "type": "word"
+    },
+    {
+      "end": 3.64,
+      "logprob": -0.00001585470999998506,
+      "start": 3.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.84,
+      "logprob": -0.00001585470999998506,
+      "start": 3.64,
+      "text": "debe",
+      "type": "word"
+    },
+    {
+      "end": 3.92,
+      "logprob": -0.010722876526415348,
+      "start": 3.84,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.74,
+      "logprob": -0.007149061187760708,
+      "start": 3.92,
+      "text": "configurarme",
+      "type": "word"
+    },
+    {
+      "end": 4.78,
+      "logprob": -3.576278118089249e-7,
+      "start": 4.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.84,
+      "logprob": -3.576278118089249e-7,
+      "start": 4.78,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 4.88,
+      "logprob": -0.00045158201828598976,
+      "start": 4.84,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.38,
+      "logprob": -0.00045158201828598976,
+      "start": 4.88,
+      "text": "verificar",
+      "type": "word"
+    },
+    {
+      "end": 5.46,
+      "logprob": -1.1920928244535389e-7,
+      "start": 5.38,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.62,
+      "logprob": -1.1920928244535389e-7,
+      "start": 5.46,
+      "text": "que",
+      "type": "word"
+    },
+    {
+      "end": 5.66,
+      "logprob": -0.000007510157047363464,
+      "start": 5.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.88,
+      "logprob": -0.000007510157047363464,
+      "start": 5.66,
+      "text": "puedo",
+      "type": "word"
+    },
+    {
+      "end": 5.9,
+      "logprob": -0.0001209901092806831,
+      "start": 5.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.36,
+      "logprob": -0.0001209901092806831,
+      "start": 5.9,
+      "text": "almacenar",
+      "type": "word"
+    },
+    {
+      "end": 6.42,
+      "logprob": -0.000001311301275563892,
+      "start": 6.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.08,
+      "logprob": -0.000001986816945039512,
+      "start": 6.42,
+      "text": "información.",
+      "type": "word"
+    },
+    {
+      "end": 7.5,
+      "logprob": -0.0000011920922133867862,
+      "start": 7.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.56,
+      "logprob": -0.0000011920922133867862,
+      "start": 7.5,
+      "text": "Si",
+      "type": "word"
+    },
+    {
+      "end": 7.7,
+      "logprob": -0.000008702239938429557,
+      "start": 7.56,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.98,
+      "logprob": -0.000008702239938429557,
+      "start": 7.7,
+      "text": "falla",
+      "type": "word"
+    },
+    {
+      "end": 8.02,
+      "logprob": -0.0000032186455882765586,
+      "start": 7.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.119,
+      "logprob": -0.0000032186455882765586,
+      "start": 8.02,
+      "text": "una",
+      "type": "word"
+    },
+    {
+      "end": 8.2,
+      "logprob": -0.00013386306818574667,
+      "start": 8.119,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.78,
+      "logprob": -0.00007838481290415682,
+      "start": 8.2,
+      "text": "comprobación",
+      "type": "word"
+    },
+    {
+      "end": 8.86,
+      "logprob": -0.0003678122302517295,
+      "start": 8.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.32,
+      "logprob": -0.00033034397529263515,
+      "start": 8.86,
+      "text": "crítica,",
+      "type": "word"
+    },
+    {
+      "end": 9.62,
+      "logprob": -5.960462772236497e-7,
+      "start": 9.32,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.7,
+      "logprob": -5.960462772236497e-7,
+      "start": 9.62,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 9.76,
+      "logprob": -0.00004792098479811102,
+      "start": 9.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.26,
+      "logprob": -0.00004792098479811102,
+      "start": 9.76,
+      "text": "arranque",
+      "type": "word"
+    },
+    {
+      "end": 10.3,
+      "logprob": -0.00000250339189733495,
+      "start": 10.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.58,
+      "logprob": -0.00000250339189733495,
+      "start": 10.3,
+      "text": "puede",
+      "type": "word"
+    },
+    {
+      "end": 10.62,
+      "logprob": -0.00009679325739853084,
+      "start": 10.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.22,
+      "logprob": -0.00007531013559495629,
+      "start": 10.62,
+      "text": "detenerse",
+      "type": "word"
+    }
+  ],
+  "referencia": "Y yo soy Rami, la ese de ram: el controlador debe configurarme y verificar que puedo almacenar información. Si falla una comprobación crítica, el arranque puede detenerse.",
+  "errores": 1,
+  "palabras": 27,
+  "wer": 0.037037037037037035
+}

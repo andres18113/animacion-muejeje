@@ -1,0 +1,86 @@
+[
+  {
+    "text": " Soy",
+    "startMs": 0,
+    "endMs": 240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Pulso,",
+    "startMs": 320,
+    "endMs": 1040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 1120,
+    "endMs": 1200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " botón",
+    "startMs": 1320,
+    "endMs": 1520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 1600,
+    "endMs": 1640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " encendido.",
+    "startMs": 1680,
+    "endMs": 2440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Mi",
+    "startMs": 2640,
+    "endMs": 2800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " pulsación",
+    "startMs": 2840,
+    "endMs": 3360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " solicita",
+    "startMs": 3440,
+    "endMs": 3920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " iniciar",
+    "startMs": 4000,
+    "endMs": 4400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 4440,
+    "endMs": 4480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " computador.",
+    "startMs": 4560,
+    "endMs": 5360,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

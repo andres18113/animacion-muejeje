@@ -1,0 +1,328 @@
+{
+  "audio_duration_secs": 9.938125,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Yo soy Init, el primer proceso de usuario identificado como PID1. El BIOS completó su misión. El sistema operativo ya comenzó a funcionar",
+  "transcription_id": "Ei5wYvY3qvU8CvHFI5HW",
+  "words": [
+    {
+      "end": 0.16,
+      "logprob": -0.00009548207890475167,
+      "start": 0.1,
+      "text": "Yo",
+      "type": "word"
+    },
+    {
+      "end": 0.22,
+      "logprob": -0.00007533743337262422,
+      "start": 0.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.38,
+      "logprob": -0.00007533743337262422,
+      "start": 0.22,
+      "text": "soy",
+      "type": "word"
+    },
+    {
+      "end": 0.56,
+      "logprob": -0.2882501184940338,
+      "start": 0.38,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.82,
+      "logprob": -0.23091053699608893,
+      "start": 0.56,
+      "text": "Init,",
+      "type": "word"
+    },
+    {
+      "end": 1.06,
+      "logprob": -0.0000014305104514278355,
+      "start": 0.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.12,
+      "logprob": -0.0000014305104514278355,
+      "start": 1.08,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 1.22,
+      "logprob": -0.000007271740287251305,
+      "start": 1.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.52,
+      "logprob": -0.000007271740287251305,
+      "start": 1.22,
+      "text": "primer",
+      "type": "word"
+    },
+    {
+      "end": 1.6,
+      "logprob": -0.00001168244216387393,
+      "start": 1.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.08,
+      "logprob": -0.00001168244216387393,
+      "start": 1.6,
+      "text": "proceso",
+      "type": "word"
+    },
+    {
+      "end": 2.1,
+      "logprob": 0,
+      "start": 2.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.16,
+      "logprob": 0,
+      "start": 2.1,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 2.2,
+      "logprob": -0.00003421248038648628,
+      "start": 2.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.64,
+      "logprob": -0.00003421248038648628,
+      "start": 2.2,
+      "text": "usuario",
+      "type": "word"
+    },
+    {
+      "end": 2.96,
+      "logprob": -0.693712055683136,
+      "start": 2.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.68,
+      "logprob": -0.693712055683136,
+      "start": 2.96,
+      "text": "identificado",
+      "type": "word"
+    },
+    {
+      "end": 3.72,
+      "logprob": -0.0000040531076592742465,
+      "start": 3.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.9,
+      "logprob": -0.0000040531076592742465,
+      "start": 3.72,
+      "text": "como",
+      "type": "word"
+    },
+    {
+      "end": 4.019,
+      "logprob": -0.005987801123410463,
+      "start": 3.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5,
+      "logprob": -0.013643089876859449,
+      "start": 4.019,
+      "text": "PID1.",
+      "type": "word"
+    },
+    {
+      "end": 5.48,
+      "logprob": -0.00003373566141817719,
+      "start": 5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.58,
+      "logprob": -0.00003373566141817719,
+      "start": 5.48,
+      "text": "El",
+      "type": "word"
+    },
+    {
+      "end": 5.66,
+      "logprob": -0.00016246906307060272,
+      "start": 5.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.94,
+      "logprob": -0.00016246906307060272,
+      "start": 5.66,
+      "text": "BIOS",
+      "type": "word"
+    },
+    {
+      "end": 6,
+      "logprob": -0.00004339123915997334,
+      "start": 5.94,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.46,
+      "logprob": -0.00003799713658381165,
+      "start": 6,
+      "text": "completó",
+      "type": "word"
+    },
+    {
+      "end": 6.52,
+      "logprob": -8.344646857949556e-7,
+      "start": 6.46,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.58,
+      "logprob": -8.344646857949556e-7,
+      "start": 6.52,
+      "text": "su",
+      "type": "word"
+    },
+    {
+      "end": 6.64,
+      "logprob": -0.00016890530241653323,
+      "start": 6.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.02,
+      "logprob": -0.0002944584536765303,
+      "start": 6.64,
+      "text": "misión.",
+      "type": "word"
+    },
+    {
+      "end": 7.4,
+      "logprob": -5.960462772236497e-7,
+      "start": 7.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.46,
+      "logprob": -5.960462772236497e-7,
+      "start": 7.4,
+      "text": "El",
+      "type": "word"
+    },
+    {
+      "end": 7.52,
+      "logprob": -0.000009179073458653876,
+      "start": 7.46,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.88,
+      "logprob": -0.000009179073458653876,
+      "start": 7.52,
+      "text": "sistema",
+      "type": "word"
+    },
+    {
+      "end": 7.9,
+      "logprob": -0.00005018585216021165,
+      "start": 7.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.44,
+      "logprob": -0.00005018585216021165,
+      "start": 7.9,
+      "text": "operativo",
+      "type": "word"
+    },
+    {
+      "end": 8.52,
+      "logprob": -0.0000010728830375228426,
+      "start": 8.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.6,
+      "logprob": -0.0000010728830375228426,
+      "start": 8.52,
+      "text": "ya",
+      "type": "word"
+    },
+    {
+      "end": 8.7,
+      "logprob": -0.00005102027353132144,
+      "start": 8.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.04,
+      "logprob": -0.00005102027353132144,
+      "start": 8.7,
+      "text": "comenzó",
+      "type": "word"
+    },
+    {
+      "end": 9.06,
+      "logprob": -1.1920928244535389e-7,
+      "start": 9.04,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.1,
+      "logprob": -1.1920928244535389e-7,
+      "start": 9.06,
+      "text": "a",
+      "type": "word"
+    },
+    {
+      "end": 9.18,
+      "logprob": -0.00022349244682118297,
+      "start": 9.1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.64,
+      "logprob": -0.00022349244682118297,
+      "start": 9.18,
+      "text": "funcionar",
+      "type": "word"
+    }
+  ],
+  "referencia": "Yo soy Init, el primer proceso de usuario, identificado como pe i de uno. El bios completó su misión: el sistema operativo ya comenzó a funcionar.",
+  "errores": 4,
+  "palabras": 26,
+  "wer": 0.15384615384615385
+}

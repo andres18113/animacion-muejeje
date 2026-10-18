@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "composicion": "S06ServiciosDispositivos",
+  "fps": 30,
+  "ancho": 1920,
+  "alto": 1080,
+  "escala": 1,
+  "metodo": "secuencia-png",
+  "perfilCaptura": [
+    0,
+    36,
+    78,
+    152,
+    275,
+    299,
+    384,
+    601,
+    749
+  ],
+  "capturaManifest": "out/produccion/S06/certificacion3/canonico/manifest.json",
+  "fuente": "out/produccion/S06/certificacion3/canonico/png",
+  "nota": "S06 corrección3 aprobada por revisión independiente. Conservar perfil de captura y hashes; PNG directos, distintos de la evidencia decodificada del MP4.",
+  "frames": [
+    {
+      "frame": 0,
+      "archivo": "element-000.png",
+      "sha256": "78f8e25b7724ef4969ad50e230fb7da63b939d60087f4915601f7c9bab37af74"
+    },
+    {
+      "frame": 36,
+      "archivo": "element-036.png",
+      "sha256": "a88edf8fd679a9daccd8d109c9981beced7758ac4d6a3d44cd8395c38cb74eeb"
+    },
+    {
+      "frame": 78,
+      "archivo": "element-078.png",
+      "sha256": "4547bf7605a0eed1447f74c1f665518f8c7beda80cfc834f16cc24ed2bd93a85"
+    },
+    {
+      "frame": 152,
+      "archivo": "element-152.png",
+      "sha256": "7ae60a3f50d45c366873f554fea4f593bc8a75bb885b15455488fb632ea2faf4"
+    },
+    {
+      "frame": 275,
+      "archivo": "element-275.png",
+      "sha256": "94ebeae6393287060219ac268f186664d86846b55d721ae40af6802456e5c169"
+    },
+    {
+      "frame": 299,
+      "archivo": "element-299.png",
+      "sha256": "df33b7ceab836143091dadbb62fe7a02843bdb66306bfcf2677f64ad81cd55d0"
+    },
+    {
+      "frame": 384,
+      "archivo": "element-384.png",
+      "sha256": "c43852ed69ffe5f47acfd4e89ac03ead7385f6bc808b4dd4fdc16c42c7c1bdcd"
+    },
+    {
+      "frame": 601,
+      "archivo": "element-601.png",
+      "sha256": "1dc53946f9e1cf77c04bd520eb69e10d56c199aef18c78f7bbf3e2e3ff3ce394"
+    },
+    {
+      "frame": 749,
+      "archivo": "element-749.png",
+      "sha256": "61a0ca50ebc337767d972d49d19b848fc51ee374dc9db0beda0ec10dbd49cd19"
+    }
+  ]
+}

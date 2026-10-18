@@ -1,0 +1,177 @@
+[
+  {
+    "text": " Y",
+    "startMs": 0,
+    "endMs": 80,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " yo",
+    "startMs": 160,
+    "endMs": 320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " soy",
+    "startMs": 400,
+    "endMs": 560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Rami,",
+    "startMs": 640,
+    "endMs": 1280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 1360,
+    "endMs": 1440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " SDRAM:",
+    "startMs": 1600,
+    "endMs": 2720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 2760,
+    "endMs": 2800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " controlador",
+    "startMs": 2880,
+    "endMs": 3520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " debe",
+    "startMs": 3600,
+    "endMs": 3840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " configurarme",
+    "startMs": 4000,
+    "endMs": 4640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 4720,
+    "endMs": 4800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " verificar",
+    "startMs": 4880,
+    "endMs": 5360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 5480,
+    "endMs": 5600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " puedo",
+    "startMs": 5640,
+    "endMs": 5840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " almacenar",
+    "startMs": 5920,
+    "endMs": 6320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " información.",
+    "startMs": 6480,
+    "endMs": 7440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Si",
+    "startMs": 7480,
+    "endMs": 7520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " falla",
+    "startMs": 7680,
+    "endMs": 7920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 8000,
+    "endMs": 8080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " comprobación",
+    "startMs": 8160,
+    "endMs": 8720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " crítica,",
+    "startMs": 8800,
+    "endMs": 9520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 9600,
+    "endMs": 9680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " arranque",
+    "startMs": 9800,
+    "endMs": 10240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " puede",
+    "startMs": 10280,
+    "endMs": 10560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " detenerse.",
+    "startMs": 10640,
+    "endMs": 11440,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

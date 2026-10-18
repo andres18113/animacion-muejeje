@@ -1,22 +1,30 @@
 {
-  "name": "arranque-so",
+  "name": "animacion-muejeje",
   "version": "1.0.0",
-  "description": "My Remotion video",
-  "repository": {},
+  "description": "A five-minute animated journey through legacy BIOS startup, from ATX power to Linux PID 1, built with Remotion, React, Three.js, and GSAP.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres18113/animacion-muejeje.git"
+  },
   "license": "UNLICENSED",
   "engines": {
     "node": "^20.19.0 || ^22.13.0 || >=24"
   },
   "private": true,
   "dependencies": {
+    "@react-three/fiber": "9.1.2",
     "@remotion/cli": "4.0.536",
+    "@remotion/three": "4.0.536",
+    "gsap": "3.12.7",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "remotion": "4.0.536"
+    "remotion": "4.0.536",
+    "three": "0.171.0"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.536",
     "@types/react": "19.2.7",
+    "@types/three": "0.171.0",
     "@types/web": "0.0.166",
     "eslint": "10.12.0",
     "prettier": "3.8.1",

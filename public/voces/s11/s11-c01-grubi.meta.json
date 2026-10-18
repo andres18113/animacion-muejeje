@@ -1,0 +1,16 @@
+{
+  "cueId": "S11-C01",
+  "mascotId": "grubi",
+  "voiceId": "htFfPSZGJwjBv1CL0aMD",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "bf2a73059149241063e0ca490dc1ce287da3b2459a11e0e0b2ad057912db22d5",
+  "chars": 299,
+  "durationMs": 17680,
+  "fecha": "2026-10-18T14:40:53.766Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "composicion": "MacroEncendido",
+  "fps": 30,
+  "ancho": 1920,
+  "alto": 1080,
+  "escala": 1,
+  "fuente": "out/referencia-aprobada/hashes.sha256",
+  "nota": "Válido para esta máquina/GPU; regenerar con --actualizar tras cambios aprobados.",
+  "frames": [
+    {
+      "frame": 6,
+      "archivo": "macro-6.png",
+      "sha256": "7dd467e2a8fafd76522721d40d3eb182da98bd74bedeaa2c6311e9f12d38e3c7"
+    },
+    {
+      "frame": 140,
+      "archivo": "macro-140.png",
+      "sha256": "a796727b942c31573c802e6ddc074b732fc8495f67368180687c799c0f265805"
+    },
+    {
+      "frame": 330,
+      "archivo": "macro-330.png",
+      "sha256": "940d5c3b742198a9bede116f34185b48e4c3ed29e4a75780dfad3bd23d7b966f"
+    },
+    {
+      "frame": 578,
+      "archivo": "macro-578.png",
+      "sha256": "902cbb058255f23417dd9a25c24cc59d12c73b3dc106bf942327d73b4bd478a1"
+    },
+    {
+      "frame": 684,
+      "archivo": "macro-684.png",
+      "sha256": "1d880e388cef2191880c8427b239008e5dd1dae277b02b2498588aa5bea2a4c1"
+    },
+    {
+      "frame": 928,
+      "archivo": "macro-928.png",
+      "sha256": "b57e54e1364fd83e7af4d5b3c6d83fa0d32e1afb3bcede8dc6611b33076e8b42"
+    },
+    {
+      "frame": 1148,
+      "archivo": "macro-1148.png",
+      "sha256": "1efcdbeaa46c0a8956199b0451822f1791d3051616a3a436edc35fda0ab6ba81"
+    },
+    {
+      "frame": 1320,
+      "archivo": "macro-1320.png",
+      "sha256": "4edf56261c13f2b2aa15a0798222dbdd675e06fd3e3cf7f514b28f269c51aa5b"
+    }
+  ]
+}

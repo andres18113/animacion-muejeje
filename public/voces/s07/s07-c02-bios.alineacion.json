@@ -1,0 +1,163 @@
+[
+  {
+    "text": " Como",
+    "startMs": 0,
+    "endMs": 240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 320,
+    "endMs": 400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " hay",
+    "startMs": 480,
+    "endMs": 560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 600,
+    "endMs": 640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " disquete",
+    "startMs": 760,
+    "endMs": 1120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " arrancable,",
+    "startMs": 1160,
+    "endMs": 2000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 2080,
+    "endMs": 2160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " BIOS",
+    "startMs": 2320,
+    "endMs": 2480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " selecciona",
+    "startMs": 2520,
+    "endMs": 2987,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 3013,
+    "endMs": 3040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " disco",
+    "startMs": 3120,
+    "endMs": 3520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 3600,
+    "endMs": 3640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " activa",
+    "startMs": 3680,
+    "endMs": 4080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 4160,
+    "endMs": 4200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " rutina",
+    "startMs": 4240,
+    "endMs": 4560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 4640,
+    "endMs": 4720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " inicio,",
+    "startMs": 4960,
+    "endMs": 5440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " representada",
+    "startMs": 5680,
+    "endMs": 6160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " por",
+    "startMs": 6240,
+    "endMs": 6320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 6360,
+    "endMs": 6400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " interrupción",
+    "startMs": 6480,
+    "endMs": 6960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " diecinueve",
+    "startMs": 7040,
+    "endMs": 7600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " hexadecimal.",
+    "startMs": 7680,
+    "endMs": 8640,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

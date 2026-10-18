@@ -1,0 +1,174 @@
+{
+  "audio_duration_secs": 5.36,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Soy Pulso, el botón de encendido. Mi pulsación solicita iniciar el computador",
+  "transcription_id": "Aadr2UTHzt1kOYWlK80d",
+  "words": [
+    {
+      "end": 0.26,
+      "logprob": -0.00011848701251437888,
+      "start": 0.1,
+      "text": "Soy",
+      "type": "word"
+    },
+    {
+      "end": 0.38,
+      "logprob": -0.0038840346969664097,
+      "start": 0.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.76,
+      "logprob": -0.0019575540093986397,
+      "start": 0.38,
+      "text": "Pulso,",
+      "type": "word"
+    },
+    {
+      "end": 1.1,
+      "logprob": -2.384185506798531e-7,
+      "start": 0.76,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.2,
+      "logprob": -2.384185506798531e-7,
+      "start": 1.12,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 1.26,
+      "logprob": -0.000001311301275563892,
+      "start": 1.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.58,
+      "logprob": -0.000001311301275563892,
+      "start": 1.26,
+      "text": "botón",
+      "type": "word"
+    },
+    {
+      "end": 1.62,
+      "logprob": -2.384185506798531e-7,
+      "start": 1.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.68,
+      "logprob": -2.384185506798531e-7,
+      "start": 1.62,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 1.7,
+      "logprob": -0.00010871296399272978,
+      "start": 1.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.28,
+      "logprob": -0.000040243242074211595,
+      "start": 1.7,
+      "text": "encendido.",
+      "type": "word"
+    },
+    {
+      "end": 2.74,
+      "logprob": -0.0000011920922133867862,
+      "start": 2.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.86,
+      "logprob": -0.0000011920922133867862,
+      "start": 2.74,
+      "text": "Mi",
+      "type": "word"
+    },
+    {
+      "end": 2.88,
+      "logprob": -0.0004524161049630493,
+      "start": 2.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.38,
+      "logprob": -0.00020206723429004743,
+      "start": 2.88,
+      "text": "pulsación",
+      "type": "word"
+    },
+    {
+      "end": 3.46,
+      "logprob": -0.0002407737774774432,
+      "start": 3.38,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.96,
+      "logprob": -0.0002407737774774432,
+      "start": 3.46,
+      "text": "solicita",
+      "type": "word"
+    },
+    {
+      "end": 4.019,
+      "logprob": -0.0001102625101339072,
+      "start": 3.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.44,
+      "logprob": -0.0001102625101339072,
+      "start": 4.019,
+      "text": "iniciar",
+      "type": "word"
+    },
+    {
+      "end": 4.48,
+      "logprob": 0,
+      "start": 4.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.54,
+      "logprob": 0,
+      "start": 4.48,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 4.6,
+      "logprob": -0.0002215855201939121,
+      "start": 4.54,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.18,
+      "logprob": -0.0002215855201939121,
+      "start": 4.6,
+      "text": "computador",
+      "type": "word"
+    }
+  ],
+  "referencia": "Soy Pulso, el botón de encendido. Mi pulsación solicita iniciar el computador.",
+  "errores": 0,
+  "palabras": 12,
+  "wer": 0
+}

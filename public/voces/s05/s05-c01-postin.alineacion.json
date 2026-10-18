@@ -1,0 +1,163 @@
+[
+  {
+    "text": " Soy",
+    "startMs": 0,
+    "endMs": 240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Postín.",
+    "startMs": 320,
+    "endMs": 1120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Durante",
+    "startMs": 1360,
+    "endMs": 1680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " POST",
+    "startMs": 1760,
+    "endMs": 2160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " inicializo",
+    "startMs": 2320,
+    "endMs": 2960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 3000,
+    "endMs": 3040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " compruebo",
+    "startMs": 3120,
+    "endMs": 3520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " recursos",
+    "startMs": 3600,
+    "endMs": 4080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " esenciales:",
+    "startMs": 4160,
+    "endMs": 5280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " procesador,",
+    "startMs": 5360,
+    "endMs": 6240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " caché,",
+    "startMs": 6280,
+    "endMs": 6960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " memoria",
+    "startMs": 7080,
+    "endMs": 7520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 7600,
+    "endMs": 7680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " controladores.",
+    "startMs": 7760,
+    "endMs": 8720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Puedo",
+    "startMs": 8960,
+    "endMs": 9160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " comunicar",
+    "startMs": 9200,
+    "endMs": 9680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " diagnósticos",
+    "startMs": 9720,
+    "endMs": 10480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " mediante",
+    "startMs": 10600,
+    "endMs": 10880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " códigos",
+    "startMs": 10960,
+    "endMs": 11360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " del",
+    "startMs": 11440,
+    "endMs": 11520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " puerto",
+    "startMs": 11600,
+    "endMs": 11840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ochenta",
+    "startMs": 11920,
+    "endMs": 12320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " hexadecimal.",
+    "startMs": 12400,
+    "endMs": 13440,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

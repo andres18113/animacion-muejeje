@@ -1,0 +1,454 @@
+{
+  "audio_duration_secs": 11.76,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Y yo soy CMOSI. Conservo parámetros de configuración y el reloj mediante memoria respaldada por batería. No almaceno el programa BIOS. Mis datos y el programa de ROM y cumplen funciones diferentes",
+  "transcription_id": "uQkvsF7gETjojuW19pa0",
+  "words": [
+    {
+      "end": 0.1,
+      "logprob": -0.000036000557884108275,
+      "start": 0.06,
+      "text": "Y",
+      "type": "word"
+    },
+    {
+      "end": 0.18,
+      "logprob": -0.0000010728830375228426,
+      "start": 0.1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.28,
+      "logprob": -0.0000010728830375228426,
+      "start": 0.18,
+      "text": "yo",
+      "type": "word"
+    },
+    {
+      "end": 0.36,
+      "logprob": -0.000005364403477869928,
+      "start": 0.28,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.52,
+      "logprob": -0.000005364403477869928,
+      "start": 0.36,
+      "text": "soy",
+      "type": "word"
+    },
+    {
+      "end": 0.6,
+      "logprob": -0.02028061635792255,
+      "start": 0.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.1,
+      "logprob": -0.014017331258704266,
+      "start": 0.6,
+      "text": "CMOSI.",
+      "type": "word"
+    },
+    {
+      "end": 1.5,
+      "logprob": -0.005986142437905073,
+      "start": 1.1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.92,
+      "logprob": -0.005237889534327245,
+      "start": 1.5,
+      "text": "Conservo",
+      "type": "word"
+    },
+    {
+      "end": 1.94,
+      "logprob": -0.00009643566590966655,
+      "start": 1.92,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.42,
+      "logprob": -0.00009643566590966655,
+      "start": 1.94,
+      "text": "parámetros",
+      "type": "word"
+    },
+    {
+      "end": 2.44,
+      "logprob": -2.384185506798531e-7,
+      "start": 2.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.54,
+      "logprob": -2.384185506798531e-7,
+      "start": 2.44,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 2.56,
+      "logprob": -0.0006113567505963147,
+      "start": 2.54,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.42,
+      "logprob": -0.0006113567505963147,
+      "start": 2.56,
+      "text": "configuración",
+      "type": "word"
+    },
+    {
+      "end": 3.46,
+      "logprob": -5.960462772236497e-7,
+      "start": 3.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.52,
+      "logprob": -5.960462772236497e-7,
+      "start": 3.46,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 3.56,
+      "logprob": 0,
+      "start": 3.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.64,
+      "logprob": 0,
+      "start": 3.56,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 3.68,
+      "logprob": -5.960462772236497e-7,
+      "start": 3.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.019,
+      "logprob": -5.960462772236497e-7,
+      "start": 3.68,
+      "text": "reloj",
+      "type": "word"
+    },
+    {
+      "end": 4.1,
+      "logprob": -0.000004529942543740617,
+      "start": 4.019,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.44,
+      "logprob": -0.000004529942543740617,
+      "start": 4.1,
+      "text": "mediante",
+      "type": "word"
+    },
+    {
+      "end": 4.5,
+      "logprob": -0.000004172316494077677,
+      "start": 4.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.9,
+      "logprob": -0.000004172316494077677,
+      "start": 4.5,
+      "text": "memoria",
+      "type": "word"
+    },
+    {
+      "end": 4.96,
+      "logprob": -0.00007807903602952138,
+      "start": 4.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.52,
+      "logprob": -0.00005469108800539857,
+      "start": 4.96,
+      "text": "respaldada",
+      "type": "word"
+    },
+    {
+      "end": 5.54,
+      "logprob": 0,
+      "start": 5.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.64,
+      "logprob": 0,
+      "start": 5.54,
+      "text": "por",
+      "type": "word"
+    },
+    {
+      "end": 5.68,
+      "logprob": -0.000004768360213347478,
+      "start": 5.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.14,
+      "logprob": -0.0000199963461113839,
+      "start": 5.68,
+      "text": "batería.",
+      "type": "word"
+    },
+    {
+      "end": 6.52,
+      "logprob": -2.384185506798531e-7,
+      "start": 6.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.64,
+      "logprob": -2.384185506798531e-7,
+      "start": 6.52,
+      "text": "No",
+      "type": "word"
+    },
+    {
+      "end": 6.68,
+      "logprob": -0.00294775003567338,
+      "start": 6.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.14,
+      "logprob": -0.0018505691232348909,
+      "start": 6.68,
+      "text": "almaceno",
+      "type": "word"
+    },
+    {
+      "end": 7.16,
+      "logprob": -0.000002861018856492592,
+      "start": 7.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.26,
+      "logprob": -0.000002861018856492592,
+      "start": 7.18,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 7.28,
+      "logprob": -0.000002622600959512056,
+      "start": 7.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.62,
+      "logprob": -0.000002622600959512056,
+      "start": 7.28,
+      "text": "programa",
+      "type": "word"
+    },
+    {
+      "end": 7.7,
+      "logprob": -0.00014578233822248876,
+      "start": 7.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.039,
+      "logprob": -0.00012375445876386948,
+      "start": 7.7,
+      "text": "BIOS.",
+      "type": "word"
+    },
+    {
+      "end": 8.42,
+      "logprob": -0.00012516192509792745,
+      "start": 8.039,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.58,
+      "logprob": -0.00012516192509792745,
+      "start": 8.42,
+      "text": "Mis",
+      "type": "word"
+    },
+    {
+      "end": 8.62,
+      "logprob": -0.000002861018856492592,
+      "start": 8.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.96,
+      "logprob": -0.000002861018856492592,
+      "start": 8.62,
+      "text": "datos",
+      "type": "word"
+    },
+    {
+      "end": 8.98,
+      "logprob": 0,
+      "start": 8.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.02,
+      "logprob": 0,
+      "start": 8.98,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 9.06,
+      "logprob": -1.1920928244535389e-7,
+      "start": 9.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.14,
+      "logprob": -1.1920928244535389e-7,
+      "start": 9.06,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 9.16,
+      "logprob": -0.0000029802276912960224,
+      "start": 9.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.52,
+      "logprob": -0.0000029802276912960224,
+      "start": 9.16,
+      "text": "programa",
+      "type": "word"
+    },
+    {
+      "end": 9.56,
+      "logprob": 0,
+      "start": 9.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.66,
+      "logprob": 0,
+      "start": 9.56,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 9.7,
+      "logprob": -0.009034233167767525,
+      "start": 9.66,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.9,
+      "logprob": -0.009034233167767525,
+      "start": 9.7,
+      "text": "ROM",
+      "type": "word"
+    },
+    {
+      "end": 9.94,
+      "logprob": -0.756880521774292,
+      "start": 9.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.98,
+      "logprob": -0.756880521774292,
+      "start": 9.94,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 10.12,
+      "logprob": -0.0008001701789908111,
+      "start": 9.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.42,
+      "logprob": -0.0008001701789908111,
+      "start": 10.12,
+      "text": "cumplen",
+      "type": "word"
+    },
+    {
+      "end": 10.5,
+      "logprob": -0.00004184158387943171,
+      "start": 10.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.92,
+      "logprob": -0.00004184158387943171,
+      "start": 10.5,
+      "text": "funciones",
+      "type": "word"
+    },
+    {
+      "end": 10.94,
+      "logprob": -0.0000066756979322235566,
+      "start": 10.92,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.6,
+      "logprob": -0.0000066756979322235566,
+      "start": 10.94,
+      "text": "diferentes",
+      "type": "word"
+    }
+  ],
+  "referencia": "Y yo soy Cmosi: conservo parámetros de configuración y el reloj mediante memoria respaldada por batería; no almaceno el programa bios. Mis datos y el programa de Romi cumplen funciones diferentes.",
+  "errores": 2,
+  "palabras": 31,
+  "wer": 0.06451612903225806
+}

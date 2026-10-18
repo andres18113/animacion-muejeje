@@ -1,0 +1,342 @@
+{
+  "audio_duration_secs": 8.4,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Ahora preparo los servicios de interrupción y las áreas de datos BIOS en RAM. También inicializo el video, el teclado y el controlador IDE",
+  "transcription_id": "fGCuNY5wB9JIuxlYQRjD",
+  "words": [
+    {
+      "end": 0.26,
+      "logprob": -0.00002074220174108632,
+      "start": 0.08,
+      "text": "Ahora",
+      "type": "word"
+    },
+    {
+      "end": 0.34,
+      "logprob": -0.0002703301142901182,
+      "start": 0.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.68,
+      "logprob": -0.0002317455863273413,
+      "start": 0.34,
+      "text": "preparo",
+      "type": "word"
+    },
+    {
+      "end": 0.72,
+      "logprob": -1.1920928244535389e-7,
+      "start": 0.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.82,
+      "logprob": -1.1920928244535389e-7,
+      "start": 0.72,
+      "text": "los",
+      "type": "word"
+    },
+    {
+      "end": 0.86,
+      "logprob": -0.00009262132516596466,
+      "start": 0.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.26,
+      "logprob": -0.00009262132516596466,
+      "start": 0.86,
+      "text": "servicios",
+      "type": "word"
+    },
+    {
+      "end": 1.28,
+      "logprob": 0,
+      "start": 1.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.3,
+      "logprob": 0,
+      "start": 1.28,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 1.34,
+      "logprob": -0.00006592056161025539,
+      "start": 1.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.98,
+      "logprob": -0.0002286773481804024,
+      "start": 1.34,
+      "text": "interrupción",
+      "type": "word"
+    },
+    {
+      "end": 2.1,
+      "logprob": -0.000001549719513604941,
+      "start": 1.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.16,
+      "logprob": -0.000001549719513604941,
+      "start": 2.1,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 2.2,
+      "logprob": 0,
+      "start": 2.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.34,
+      "logprob": 0,
+      "start": 2.2,
+      "text": "las",
+      "type": "word"
+    },
+    {
+      "end": 2.42,
+      "logprob": -0.00008535020606359467,
+      "start": 2.34,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.64,
+      "logprob": -0.00008535020606359467,
+      "start": 2.42,
+      "text": "áreas",
+      "type": "word"
+    },
+    {
+      "end": 2.66,
+      "logprob": -1.1920928244535389e-7,
+      "start": 2.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.74,
+      "logprob": -1.1920928244535389e-7,
+      "start": 2.66,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 2.78,
+      "logprob": -0.0000066756979322235566,
+      "start": 2.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.08,
+      "logprob": -0.0000066756979322235566,
+      "start": 2.78,
+      "text": "datos",
+      "type": "word"
+    },
+    {
+      "end": 3.18,
+      "logprob": -0.0022601555101573467,
+      "start": 3.08,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.44,
+      "logprob": -0.0022601555101573467,
+      "start": 3.18,
+      "text": "BIOS",
+      "type": "word"
+    },
+    {
+      "end": 3.48,
+      "logprob": -7.152555099310121e-7,
+      "start": 3.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.58,
+      "logprob": -7.152555099310121e-7,
+      "start": 3.48,
+      "text": "en",
+      "type": "word"
+    },
+    {
+      "end": 3.66,
+      "logprob": -0.00001382818209094694,
+      "start": 3.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.86,
+      "logprob": -0.00001284471704821044,
+      "start": 3.66,
+      "text": "RAM.",
+      "type": "word"
+    },
+    {
+      "end": 3.86,
+      "logprob": -0.000018000440832111053,
+      "start": 3.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.6,
+      "logprob": -0.000018000440832111053,
+      "start": 4.3,
+      "text": "También",
+      "type": "word"
+    },
+    {
+      "end": 4.64,
+      "logprob": -0.0017269235104322431,
+      "start": 4.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.14,
+      "logprob": -0.001242640387499705,
+      "start": 4.64,
+      "text": "inicializo",
+      "type": "word"
+    },
+    {
+      "end": 5.16,
+      "logprob": -1.1920928244535389e-7,
+      "start": 5.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.22,
+      "logprob": -1.1920928244535389e-7,
+      "start": 5.18,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 5.28,
+      "logprob": -0.0076196035370230675,
+      "start": 5.22,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.66,
+      "logprob": -0.006352153122558472,
+      "start": 5.28,
+      "text": "video,",
+      "type": "word"
+    },
+    {
+      "end": 5.9,
+      "logprob": -2.384185506798531e-7,
+      "start": 5.66,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.96,
+      "logprob": -2.384185506798531e-7,
+      "start": 5.9,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 6.02,
+      "logprob": -0.0000027418097943154862,
+      "start": 5.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.6,
+      "logprob": -0.0000027418097943154862,
+      "start": 6.02,
+      "text": "teclado",
+      "type": "word"
+    },
+    {
+      "end": 6.64,
+      "logprob": -3.576278118089249e-7,
+      "start": 6.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.68,
+      "logprob": -3.576278118089249e-7,
+      "start": 6.64,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 6.72,
+      "logprob": -2.384185506798531e-7,
+      "start": 6.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.82,
+      "logprob": -2.384185506798531e-7,
+      "start": 6.72,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 6.84,
+      "logprob": -0.00019798702851403505,
+      "start": 6.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.4,
+      "logprob": -0.00019798702851403505,
+      "start": 6.84,
+      "text": "controlador",
+      "type": "word"
+    },
+    {
+      "end": 7.66,
+      "logprob": -0.00008105902816168964,
+      "start": 7.4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.039,
+      "logprob": -0.00008105902816168964,
+      "start": 7.66,
+      "text": "IDE",
+      "type": "word"
+    }
+  ],
+  "referencia": "Ahora preparo los servicios de interrupción y las áreas de datos bios en ram. También inicializo el video, el teclado y el controlador i de e.",
+  "errores": 3,
+  "palabras": 26,
+  "wer": 0.11538461538461539
+}

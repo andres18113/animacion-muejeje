@@ -1,0 +1,356 @@
+{
+  "audio_duration_secs": 8.96,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Soy Disky, el disco duro. El BIOS me detecta mediante el controlador ATA y comprueba que puede comunicarse conmigo antes de buscar el sistema operativo",
+  "transcription_id": "8tr5tQnAmPGPIym6bx3G",
+  "words": [
+    {
+      "end": 0.24,
+      "logprob": -0.00005423875700216741,
+      "start": 0.1,
+      "text": "Soy",
+      "type": "word"
+    },
+    {
+      "end": 0.3,
+      "logprob": -0.008228330872952938,
+      "start": 0.24,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.68,
+      "logprob": -0.05112492217692003,
+      "start": 0.3,
+      "text": "Disky,",
+      "type": "word"
+    },
+    {
+      "end": 1.06,
+      "logprob": -0.000006556489552167477,
+      "start": 0.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.14,
+      "logprob": -0.000006556489552167477,
+      "start": 1.06,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 1.2,
+      "logprob": -0.000501983508002013,
+      "start": 1.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.46,
+      "logprob": -0.000501983508002013,
+      "start": 1.2,
+      "text": "disco",
+      "type": "word"
+    },
+    {
+      "end": 1.52,
+      "logprob": -0.000003814689989667386,
+      "start": 1.46,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.78,
+      "logprob": -0.000007200192339951173,
+      "start": 1.52,
+      "text": "duro.",
+      "type": "word"
+    },
+    {
+      "end": 2.2,
+      "logprob": -0.000005006777428206988,
+      "start": 1.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.26,
+      "logprob": -0.000005006777428206988,
+      "start": 2.2,
+      "text": "El",
+      "type": "word"
+    },
+    {
+      "end": 2.34,
+      "logprob": -0.0000107287787614041,
+      "start": 2.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.62,
+      "logprob": -0.0000107287787614041,
+      "start": 2.34,
+      "text": "BIOS",
+      "type": "word"
+    },
+    {
+      "end": 2.64,
+      "logprob": -8.344646857949556e-7,
+      "start": 2.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.7,
+      "logprob": -8.344646857949556e-7,
+      "start": 2.64,
+      "text": "me",
+      "type": "word"
+    },
+    {
+      "end": 2.74,
+      "logprob": -0.000015735502529423684,
+      "start": 2.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.12,
+      "logprob": -0.000013487573596648872,
+      "start": 2.74,
+      "text": "detecta",
+      "type": "word"
+    },
+    {
+      "end": 3.18,
+      "logprob": -1.1920928244535389e-7,
+      "start": 3.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.52,
+      "logprob": -1.1920928244535389e-7,
+      "start": 3.18,
+      "text": "mediante",
+      "type": "word"
+    },
+    {
+      "end": 3.56,
+      "logprob": 0,
+      "start": 3.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.62,
+      "logprob": 0,
+      "start": 3.56,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 3.68,
+      "logprob": -0.00014840454969089478,
+      "start": 3.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.2,
+      "logprob": -0.00014840454969089478,
+      "start": 3.68,
+      "text": "controlador",
+      "type": "word"
+    },
+    {
+      "end": 4.4,
+      "logprob": -0.009126730263233185,
+      "start": 4.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.66,
+      "logprob": -0.009126730263233185,
+      "start": 4.4,
+      "text": "ATA",
+      "type": "word"
+    },
+    {
+      "end": 4.86,
+      "logprob": -0.000002145764938177308,
+      "start": 4.66,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.88,
+      "logprob": -0.000002145764938177308,
+      "start": 4.86,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 4.96,
+      "logprob": -0.0001567479339428246,
+      "start": 4.88,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.36,
+      "logprob": -0.00012660493181707955,
+      "start": 4.96,
+      "text": "comprueba",
+      "type": "word"
+    },
+    {
+      "end": 5.38,
+      "logprob": 0,
+      "start": 5.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.52,
+      "logprob": 0,
+      "start": 5.38,
+      "text": "que",
+      "type": "word"
+    },
+    {
+      "end": 5.56,
+      "logprob": -9.536738616588992e-7,
+      "start": 5.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.76,
+      "logprob": -9.536738616588992e-7,
+      "start": 5.56,
+      "text": "puede",
+      "type": "word"
+    },
+    {
+      "end": 5.8,
+      "logprob": -0.0007073761080391705,
+      "start": 5.76,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.36,
+      "logprob": -0.0007073761080391705,
+      "start": 5.8,
+      "text": "comunicarse",
+      "type": "word"
+    },
+    {
+      "end": 6.38,
+      "logprob": -0.0000033378546504536644,
+      "start": 6.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.82,
+      "logprob": -0.0000033378546504536644,
+      "start": 6.38,
+      "text": "conmigo",
+      "type": "word"
+    },
+    {
+      "end": 7.04,
+      "logprob": -0.0000046491513785440475,
+      "start": 6.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.3,
+      "logprob": -0.0000046491513785440475,
+      "start": 7.04,
+      "text": "antes",
+      "type": "word"
+    },
+    {
+      "end": 7.34,
+      "logprob": 0,
+      "start": 7.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.4,
+      "logprob": 0,
+      "start": 7.34,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 7.44,
+      "logprob": -0.0000040531076592742465,
+      "start": 7.4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.74,
+      "logprob": -0.0000040531076592742465,
+      "start": 7.44,
+      "text": "buscar",
+      "type": "word"
+    },
+    {
+      "end": 7.78,
+      "logprob": -3.576278118089249e-7,
+      "start": 7.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.86,
+      "logprob": -3.576278118089249e-7,
+      "start": 7.78,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 7.9,
+      "logprob": -0.0000032186455882765586,
+      "start": 7.86,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.2,
+      "logprob": -0.0000032186455882765586,
+      "start": 7.9,
+      "text": "sistema",
+      "type": "word"
+    },
+    {
+      "end": 8.24,
+      "logprob": -0.00005352353764465079,
+      "start": 8.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.82,
+      "logprob": -0.00005352353764465079,
+      "start": 8.24,
+      "text": "operativo",
+      "type": "word"
+    }
+  ],
+  "referencia": "Soy Disqui, el disco duro. El bios me detecta mediante el controlador ata y comprueba que puede comunicarse conmigo antes de buscar el sistema operativo.",
+  "errores": 1,
+  "palabras": 25,
+  "wer": 0.04
+}

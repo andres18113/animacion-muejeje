@@ -1,0 +1,328 @@
+{
+  "audio_duration_secs": 13.44,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Soy POSTIN. Durante POST, inicializo y compruebo recursos esenciales: procesador, caché, memoria y controladores. Puedo comunicar diagnósticos mediante códigos del puerto 80 hexadecimal",
+  "transcription_id": "CXxUiPsJDLQctw0gaAng",
+  "words": [
+    {
+      "end": 0.26,
+      "logprob": -0.00009810443589231,
+      "start": 0.12,
+      "text": "Soy",
+      "type": "word"
+    },
+    {
+      "end": 0.34,
+      "logprob": -0.28312915563583374,
+      "start": 0.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.82,
+      "logprob": -0.17315522242643056,
+      "start": 0.34,
+      "text": "POSTIN.",
+      "type": "word"
+    },
+    {
+      "end": 1.38,
+      "logprob": -0.00005602679812000133,
+      "start": 0.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.7,
+      "logprob": -0.00005602679812000133,
+      "start": 1.38,
+      "text": "Durante",
+      "type": "word"
+    },
+    {
+      "end": 1.82,
+      "logprob": -0.010640199296176434,
+      "start": 1.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.16,
+      "logprob": -0.037079276889562605,
+      "start": 1.82,
+      "text": "POST,",
+      "type": "word"
+    },
+    {
+      "end": 2.34,
+      "logprob": -0.0014810318825766444,
+      "start": 2.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3,
+      "logprob": -0.0010404773869595377,
+      "start": 2.34,
+      "text": "inicializo",
+      "type": "word"
+    },
+    {
+      "end": 3.02,
+      "logprob": -1.1920928244535389e-7,
+      "start": 3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.06,
+      "logprob": -1.1920928244535389e-7,
+      "start": 3.02,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 3.14,
+      "logprob": -0.00029595286468975246,
+      "start": 3.06,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.58,
+      "logprob": -0.0011374236181735694,
+      "start": 3.14,
+      "text": "compruebo",
+      "type": "word"
+    },
+    {
+      "end": 3.64,
+      "logprob": -0.00001680836794548668,
+      "start": 3.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.1,
+      "logprob": -0.00001680836794548668,
+      "start": 3.64,
+      "text": "recursos",
+      "type": "word"
+    },
+    {
+      "end": 4.16,
+      "logprob": -0.0000922637336771004,
+      "start": 4.1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.9,
+      "logprob": -0.00008407119106447102,
+      "start": 4.16,
+      "text": "esenciales:",
+      "type": "word"
+    },
+    {
+      "end": 4.9,
+      "logprob": -0.000161038784426637,
+      "start": 4.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6,
+      "logprob": -0.00008798022064450028,
+      "start": 5.36,
+      "text": "procesador,",
+      "type": "word"
+    },
+    {
+      "end": 6.3,
+      "logprob": -0.0005147324409335852,
+      "start": 6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.72,
+      "logprob": -0.0004306722265331094,
+      "start": 6.3,
+      "text": "caché,",
+      "type": "word"
+    },
+    {
+      "end": 7.02,
+      "logprob": -0.0000020265558760002023,
+      "start": 6.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.5,
+      "logprob": -0.0000020265558760002023,
+      "start": 7.02,
+      "text": "memoria",
+      "type": "word"
+    },
+    {
+      "end": 7.66,
+      "logprob": -2.384185506798531e-7,
+      "start": 7.5,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.68,
+      "logprob": -2.384185506798531e-7,
+      "start": 7.66,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 7.76,
+      "logprob": -0.000021815061700181104,
+      "start": 7.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.64,
+      "logprob": -0.000020265357956057123,
+      "start": 7.76,
+      "text": "controladores.",
+      "type": "word"
+    },
+    {
+      "end": 8.98,
+      "logprob": -0.00006401333666872233,
+      "start": 8.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.16,
+      "logprob": -0.000051210669334977864,
+      "start": 8.98,
+      "text": "Puedo",
+      "type": "word"
+    },
+    {
+      "end": 9.24,
+      "logprob": -0.0002420847595203668,
+      "start": 9.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.68,
+      "logprob": -0.0002420847595203668,
+      "start": 9.24,
+      "text": "comunicar",
+      "type": "word"
+    },
+    {
+      "end": 9.74,
+      "logprob": -0.0003796095261350274,
+      "start": 9.68,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.48,
+      "logprob": -0.00024300174239518432,
+      "start": 9.74,
+      "text": "diagnósticos",
+      "type": "word"
+    },
+    {
+      "end": 10.54,
+      "logprob": -0.00000250339189733495,
+      "start": 10.48,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.9,
+      "logprob": -0.00000250339189733495,
+      "start": 10.54,
+      "text": "mediante",
+      "type": "word"
+    },
+    {
+      "end": 11,
+      "logprob": -0.00003123234637314454,
+      "start": 10.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.38,
+      "logprob": -0.00003123234637314454,
+      "start": 11,
+      "text": "códigos",
+      "type": "word"
+    },
+    {
+      "end": 11.42,
+      "logprob": -4.768370445162873e-7,
+      "start": 11.38,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.52,
+      "logprob": -4.768370445162873e-7,
+      "start": 11.42,
+      "text": "del",
+      "type": "word"
+    },
+    {
+      "end": 11.62,
+      "logprob": -0.000008583032467868179,
+      "start": 11.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.9,
+      "logprob": -0.000008583032467868179,
+      "start": 11.62,
+      "text": "puerto",
+      "type": "word"
+    },
+    {
+      "end": 12.18,
+      "logprob": -0.000005483612312673358,
+      "start": 11.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.42,
+      "logprob": -0.00004935032347930246,
+      "start": 12.18,
+      "text": "80",
+      "type": "word"
+    },
+    {
+      "end": 12.44,
+      "logprob": -0.18403981626033783,
+      "start": 12.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.24,
+      "logprob": -0.18403981626033783,
+      "start": 12.44,
+      "text": "hexadecimal",
+      "type": "word"
+    }
+  ],
+  "referencia": "Soy Postín. Durante post inicializo y compruebo recursos esenciales: procesador, caché, memoria y controladores. Puedo comunicar diagnósticos mediante códigos del puerto ochenta hexadecimal.",
+  "errores": 1,
+  "palabras": 23,
+  "wer": 0.043478260869565216
+}

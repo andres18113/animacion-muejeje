@@ -5,3 +5,14 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Generated bundles, local credentials, and editor state.
+build/
+.env.*
+!.env.example
+*.log
+.claude/
+
+# Vendor skills can be reinstalled; keep the project-specific tooling.
+.agents/skills/*
+!.agents/skills/arranque-motion/

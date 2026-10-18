@@ -1,0 +1,68 @@
+{
+  "source": "SO-ARR-BIOS-001 v2.0.0, sections 8 and 9.1",
+  "sourceSha256": "eed7a2ed769016a9e4c62267f0e6d048d54727f3f12730fad459a55f9bc30635",
+  "storyboard": [
+    {
+      "id": "S01",
+      "name": "Fuente ATX"
+    },
+    {
+      "id": "S02",
+      "name": "Botón y encendido"
+    },
+    {
+      "id": "S03",
+      "name": "CPU y reset vector"
+    },
+    {
+      "id": "S04",
+      "name": "BIOS, flash y CMOS"
+    },
+    {
+      "id": "S05",
+      "name": "POST, SPD y SDRAM"
+    },
+    {
+      "id": "S06",
+      "name": "Periféricos y estructuras BIOS"
+    },
+    {
+      "id": "S07",
+      "name": "Orden de arranque e INT 19h"
+    },
+    {
+      "id": "S08",
+      "name": "INT 13h y lectura de sector"
+    },
+    {
+      "id": "S09",
+      "name": "MBR y sus campos"
+    },
+    {
+      "id": "S10",
+      "name": "GRUB Legacy"
+    },
+    {
+      "id": "S11",
+      "name": "Preparación y entrada al kernel"
+    },
+    {
+      "id": "S12",
+      "name": "Linux y PID 1"
+    }
+  ],
+  "dialogue": {
+    "S01": "Soy Voltio, la fuente ATX. Recibo corriente alterna y proporciono una tensión de espera llamada cinco voltios standby. Cuando la placa me ordena encender, activo mis salidas. Solo al estabilizarse las tensiones comunico que la alimentación es adecuada mediante PWR_OK.",
+    "S02": "Soy Pulso, el botón de encendido. Mi pulsación solicita iniciar el computador. Yo soy Secu, la lógica de control de la placa base. Activo PS_ON# con un cero lógico, espero la confirmación eléctrica y coordino la liberación del reinicio del procesador. La CPU no comienza hasta completar esa secuencia.",
+    "S03": "Hola, soy Cipu, el procesador Pentium II. Cuando termina mi reinicio, obtengo mi primera instrucción en la dirección física hexadecimal FFFFFFF0. Esa dirección conduce al código inicial del BIOS. Todavía no existe ningún proceso Linux: en este momento solo ejecuto instrucciones del firmware. El chipset facilita que esa región responda a mi primera búsqueda.",
+    "S04": "Soy Romi, la memoria flash que almacena el BIOS. Tengo quinientos doce kibibytes organizados en ocho bloques. Yo soy Bios, el programa que ejecuta la CPU para preparar el computador. Y yo soy Cmosi: conservo parámetros de configuración y el reloj mediante memoria respaldada por batería; no almaceno el programa BIOS. Mis datos y el programa de Romi cumplen funciones diferentes.",
+    "S05": "Soy Postín. Durante POST inicializo y compruebo recursos esenciales: procesador, caché, memoria y controladores. Puedo comunicar diagnósticos mediante códigos del puerto ochenta hexadecimal. Yo soy Spedi, una pequeña EEPROM del módulo de memoria. Entrego datos sobre tamaño y velocidad. Y yo soy Rami, la SDRAM: el controlador debe configurarme y verificar que puedo almacenar información. Si falla una comprobación crítica, el arranque puede detenerse.",
+    "S06": "Ahora preparo los servicios de interrupción y las áreas de datos BIOS en RAM. También inicializo el video, el teclado y el controlador IDE. Soy Disqui, el disco duro. El BIOS me detecta mediante el controlador ATA y comprueba que puede comunicarse conmigo antes de buscar el sistema operativo.",
+    "S07": "Mis parámetros CMOS ayudan al BIOS a conocer su configuración de arranque. En nuestra computadora se intenta primero la disquetera y después el disco IDE. Como no hay un disquete arrancable, el BIOS selecciona el disco y activa la rutina de inicio, representada por la interrupción diecinueve hexadecimal.",
+    "S08": "Para leer el disco utilizo servicios de la interrupción trece hexadecimal. Identifico el primer disco duro con el valor ochenta hexadecimal y leo su sector inicial de quinientos doce bytes. Coloco esos bytes en memoria, en la dirección siete C cero cero hexadecimal, para preparar su ejecución.",
+    "S09": "Soy Mebre, el registro maestro de arranque o MBR. Mis quinientos doce bytes contienen un área de código, una tabla de cuatro entradas de partición y la firma final cincuenta y cinco, A A. En nuestro disco, el área ejecutable contiene la primera etapa de GRUB, que recibe el control cuando termina la lectura BIOS.",
+    "S10": "Soy Grubi, GRUB Legacy. Mi primera etapa está instalada en el MBR y localiza una etapa intermedia, llamada Stage uno punto cinco. Esta comprende el sistema de archivos ext dos y abre el camino hacia Stage dos. Allí leo mi configuración y selecciono el núcleo de Linux que voy a cargar.",
+    "S11": "Cargo la imagen del kernel desde el disco hacia RAM y preparo sus parámetros de arranque. El código de inicio establece el entorno necesario para ejecutar instrucciones de treinta y dos bits, incluido el modo protegido. Finalmente cedo el control al punto de entrada previsto por el protocolo Linux.",
+    "S12": "Soy Núcleo, el kernel Linux. Inicializo memoria, interrupciones y controladores, y monto el sistema de archivos raíz. Yo soy Init, el primer proceso de usuario, identificado como PID uno. El BIOS completó su misión: el sistema operativo ya comenzó a funcionar."
+  }
+}

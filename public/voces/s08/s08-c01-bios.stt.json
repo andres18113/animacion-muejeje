@@ -1,0 +1,608 @@
+{
+  "audio_duration_secs": 17.44,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Para leer el disco utilizo servicios de la interrupción 13 hexadecimal. Identifico el primer disco duro con el valor 80 hexadecimal y leo su sector inicial de 512 bytes. Coloco esos bytes en memoria en la dirección 7C00 hexadecimal para preparar su ejecución",
+  "transcription_id": "XvaRODnPwP9HEhBZPtIy",
+  "words": [
+    {
+      "end": 0.2,
+      "logprob": -0.00003313963316031732,
+      "start": 0.06,
+      "text": "Para",
+      "type": "word"
+    },
+    {
+      "end": 0.26,
+      "logprob": -0.000001311301275563892,
+      "start": 0.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.46,
+      "logprob": -0.000001311301275563892,
+      "start": 0.26,
+      "text": "leer",
+      "type": "word"
+    },
+    {
+      "end": 0.48,
+      "logprob": 0,
+      "start": 0.46,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.56,
+      "logprob": 0,
+      "start": 0.48,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 0.62,
+      "logprob": -0.00007629103492945433,
+      "start": 0.56,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1,
+      "logprob": -0.00007629103492945433,
+      "start": 0.62,
+      "text": "disco",
+      "type": "word"
+    },
+    {
+      "end": 1.12,
+      "logprob": -0.08931947499513626,
+      "start": 1,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.48,
+      "logprob": -0.07655954999583107,
+      "start": 1.12,
+      "text": "utilizo",
+      "type": "word"
+    },
+    {
+      "end": 1.54,
+      "logprob": -0.000027894584491150457,
+      "start": 1.48,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.04,
+      "logprob": -0.000027894584491150457,
+      "start": 1.56,
+      "text": "servicios",
+      "type": "word"
+    },
+    {
+      "end": 2.06,
+      "logprob": -1.1920928244535389e-7,
+      "start": 2.04,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.12,
+      "logprob": -1.1920928244535389e-7,
+      "start": 2.06,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 2.14,
+      "logprob": 0,
+      "start": 2.12,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.18,
+      "logprob": 0,
+      "start": 2.14,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 2.22,
+      "logprob": -0.00016842853801790625,
+      "start": 2.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.78,
+      "logprob": -0.00020847474418890977,
+      "start": 2.22,
+      "text": "interrupción",
+      "type": "word"
+    },
+    {
+      "end": 2.9,
+      "logprob": -0.0006789048202335835,
+      "start": 2.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.24,
+      "logprob": -0.0007527169654508725,
+      "start": 2.9,
+      "text": "13",
+      "type": "word"
+    },
+    {
+      "end": 3.26,
+      "logprob": -0.013258390128612518,
+      "start": 3.24,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.96,
+      "logprob": -0.012155987906832404,
+      "start": 3.26,
+      "text": "hexadecimal.",
+      "type": "word"
+    },
+    {
+      "end": 4.44,
+      "logprob": -0.0003955773718189448,
+      "start": 3.96,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.94,
+      "logprob": -0.00022890134277986365,
+      "start": 4.44,
+      "text": "Identifico",
+      "type": "word"
+    },
+    {
+      "end": 4.98,
+      "logprob": -9.536738616588992e-7,
+      "start": 4.94,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.02,
+      "logprob": -9.536738616588992e-7,
+      "start": 4.98,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 5.1,
+      "logprob": -0.0000084638240878121,
+      "start": 5.02,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.4,
+      "logprob": -0.0000084638240878121,
+      "start": 5.1,
+      "text": "primer",
+      "type": "word"
+    },
+    {
+      "end": 5.46,
+      "logprob": -0.000007510157047363464,
+      "start": 5.4,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.72,
+      "logprob": -0.000007510157047363464,
+      "start": 5.46,
+      "text": "disco",
+      "type": "word"
+    },
+    {
+      "end": 5.76,
+      "logprob": -0.0000032186455882765586,
+      "start": 5.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.04,
+      "logprob": -0.0000032186455882765586,
+      "start": 5.78,
+      "text": "duro",
+      "type": "word"
+    },
+    {
+      "end": 6.08,
+      "logprob": -7.152555099310121e-7,
+      "start": 6.04,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.18,
+      "logprob": -7.152555099310121e-7,
+      "start": 6.08,
+      "text": "con",
+      "type": "word"
+    },
+    {
+      "end": 6.22,
+      "logprob": -4.768370445162873e-7,
+      "start": 6.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.3,
+      "logprob": -4.768370445162873e-7,
+      "start": 6.22,
+      "text": "el",
+      "type": "word"
+    },
+    {
+      "end": 6.34,
+      "logprob": -0.000001549719513604941,
+      "start": 6.3,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.58,
+      "logprob": -0.000001549719513604941,
+      "start": 6.34,
+      "text": "valor",
+      "type": "word"
+    },
+    {
+      "end": 7.02,
+      "logprob": -0.00018273114983458072,
+      "start": 6.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.26,
+      "logprob": -0.0000013709058634958635,
+      "start": 7.02,
+      "text": "80",
+      "type": "word"
+    },
+    {
+      "end": 7.28,
+      "logprob": -0.000432278640801087,
+      "start": 7.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.94,
+      "logprob": -0.000432278640801087,
+      "start": 7.28,
+      "text": "hexadecimal",
+      "type": "word"
+    },
+    {
+      "end": 8.3,
+      "logprob": -0.000002264974000354414,
+      "start": 7.94,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.34,
+      "logprob": -0.000002264974000354414,
+      "start": 8.3,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 8.4,
+      "logprob": -0.00008785339014139026,
+      "start": 8.34,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.56,
+      "logprob": -0.00008785339014139026,
+      "start": 8.4,
+      "text": "leo",
+      "type": "word"
+    },
+    {
+      "end": 8.62,
+      "logprob": -2.384185506798531e-7,
+      "start": 8.56,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 8.7,
+      "logprob": -2.384185506798531e-7,
+      "start": 8.62,
+      "text": "su",
+      "type": "word"
+    },
+    {
+      "end": 8.76,
+      "logprob": -0.000020503786799963564,
+      "start": 8.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.06,
+      "logprob": -0.000020503786799963564,
+      "start": 8.76,
+      "text": "sector",
+      "type": "word"
+    },
+    {
+      "end": 9.1,
+      "logprob": -0.000006794906312279636,
+      "start": 9.06,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.58,
+      "logprob": -0.000006794906312279636,
+      "start": 9.1,
+      "text": "inicial",
+      "type": "word"
+    },
+    {
+      "end": 9.6,
+      "logprob": -0.000003695481154863955,
+      "start": 9.58,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 9.7,
+      "logprob": -0.000003695481154863955,
+      "start": 9.6,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 9.84,
+      "logprob": -0.0006264869589358568,
+      "start": 9.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 10.6,
+      "logprob": -0.000006437267643377709,
+      "start": 10.02,
+      "text": "512",
+      "type": "word"
+    },
+    {
+      "end": 10.66,
+      "logprob": -0.0031404008623212576,
+      "start": 10.6,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11,
+      "logprob": -0.002620477619833158,
+      "start": 10.66,
+      "text": "bytes.",
+      "type": "word"
+    },
+    {
+      "end": 11.46,
+      "logprob": -0.000004768360213347478,
+      "start": 11,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.72,
+      "logprob": -0.00005531030342353915,
+      "start": 11.46,
+      "text": "Coloco",
+      "type": "word"
+    },
+    {
+      "end": 11.76,
+      "logprob": -0.0000046491513785440475,
+      "start": 11.72,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 11.98,
+      "logprob": -0.0000046491513785440475,
+      "start": 11.76,
+      "text": "esos",
+      "type": "word"
+    },
+    {
+      "end": 12.08,
+      "logprob": -0.00027378625236451626,
+      "start": 11.98,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.32,
+      "logprob": -0.00027378625236451626,
+      "start": 12.08,
+      "text": "bytes",
+      "type": "word"
+    },
+    {
+      "end": 12.36,
+      "logprob": -0.000001549719513604941,
+      "start": 12.32,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.44,
+      "logprob": -0.000001549719513604941,
+      "start": 12.36,
+      "text": "en",
+      "type": "word"
+    },
+    {
+      "end": 12.48,
+      "logprob": -0.000002264974000354414,
+      "start": 12.44,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 12.9,
+      "logprob": -0.000002264974000354414,
+      "start": 12.48,
+      "text": "memoria",
+      "type": "word"
+    },
+    {
+      "end": 13.12,
+      "logprob": -0.029760252684354786,
+      "start": 12.9,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.18,
+      "logprob": -0.029760252684354786,
+      "start": 13.12,
+      "text": "en",
+      "type": "word"
+    },
+    {
+      "end": 13.2,
+      "logprob": 0,
+      "start": 13.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.26,
+      "logprob": 0,
+      "start": 13.2,
+      "text": "la",
+      "type": "word"
+    },
+    {
+      "end": 13.3,
+      "logprob": -0.000008583032467868179,
+      "start": 13.26,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 13.78,
+      "logprob": -0.000008583032467868179,
+      "start": 13.3,
+      "text": "dirección",
+      "type": "word"
+    },
+    {
+      "end": 14.24,
+      "logprob": -0.0006292270263656974,
+      "start": 13.78,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.14,
+      "logprob": -0.00005045063721809129,
+      "start": 14.24,
+      "text": "7C00",
+      "type": "word"
+    },
+    {
+      "end": 15.16,
+      "logprob": -0.0026324877981096506,
+      "start": 15.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 15.82,
+      "logprob": -0.0026324877981096506,
+      "start": 15.16,
+      "text": "hexadecimal",
+      "type": "word"
+    },
+    {
+      "end": 15.96,
+      "logprob": -0.000005364403477869928,
+      "start": 15.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.14,
+      "logprob": -0.000005364403477869928,
+      "start": 15.96,
+      "text": "para",
+      "type": "word"
+    },
+    {
+      "end": 16.16,
+      "logprob": -0.000012278481335670222,
+      "start": 16.14,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.54,
+      "logprob": -0.000012278481335670222,
+      "start": 16.16,
+      "text": "preparar",
+      "type": "word"
+    },
+    {
+      "end": 16.6,
+      "logprob": -2.384185506798531e-7,
+      "start": 16.54,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 16.66,
+      "logprob": -2.384185506798531e-7,
+      "start": 16.6,
+      "text": "su",
+      "type": "word"
+    },
+    {
+      "end": 16.7,
+      "logprob": -0.00003731181277544238,
+      "start": 16.66,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 17.22,
+      "logprob": -0.00003731181277544238,
+      "start": 16.7,
+      "text": "ejecución",
+      "type": "word"
+    }
+  ],
+  "referencia": "Para leer el disco utilizo servicios de la interrupción trece hexadecimal. Identifico el primer disco duro con el valor ochenta hexadecimal y leo su sector inicial de quinientos doce bytes. Coloco esos bytes en memoria, en la dirección siete C cero cero hexadecimal, para preparar su ejecución.",
+  "errores": 8,
+  "palabras": 47,
+  "wer": 0.1702127659574468
+}

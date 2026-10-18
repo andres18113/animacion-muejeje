@@ -1,0 +1,170 @@
+[
+  {
+    "text": " Yo",
+    "startMs": 0,
+    "endMs": 163,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " soy",
+    "startMs": 209,
+    "endMs": 383,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " Init,",
+    "startMs": 488,
+    "endMs": 894,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 998,
+    "endMs": 1126,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " primer",
+    "startMs": 1184,
+    "endMs": 1521,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " proceso",
+    "startMs": 1579,
+    "endMs": 2055,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 2101,
+    "endMs": 2171,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " usuario,",
+    "startMs": 2194,
+    "endMs": 2740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " identificado",
+    "startMs": 2891,
+    "endMs": 3646,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " como",
+    "startMs": 3704,
+    "endMs": 3913,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " PID",
+    "startMs": 3994,
+    "endMs": 4667,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " uno.",
+    "startMs": 4772,
+    "endMs": 5178,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " El",
+    "startMs": 5399,
+    "endMs": 5584,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " BIOS",
+    "startMs": 5642,
+    "endMs": 5944,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " completó",
+    "startMs": 5991,
+    "endMs": 6455,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " su",
+    "startMs": 6513,
+    "endMs": 6594,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " misión:",
+    "startMs": 6641,
+    "endMs": 7117,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 7361,
+    "endMs": 7454,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " sistema",
+    "startMs": 7512,
+    "endMs": 7883,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " operativo",
+    "startMs": 7906,
+    "endMs": 8440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " ya",
+    "startMs": 8510,
+    "endMs": 8638,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " comenzó",
+    "startMs": 8684,
+    "endMs": 9056,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 9091,
+    "endMs": 9114,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " funcionar.",
+    "startMs": 9160,
+    "endMs": 9938,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

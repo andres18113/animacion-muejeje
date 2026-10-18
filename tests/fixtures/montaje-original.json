@@ -1,0 +1,283 @@
+{
+  "escenas": [
+    {
+      "id": "S01",
+      "frames": 600,
+      "cues": [
+        {
+          "cueId": "S01-C01",
+          "startFrame": 10,
+          "durationFrames": 580
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "frames": 750,
+      "cues": [
+        {
+          "cueId": "S02-C01",
+          "startFrame": 10,
+          "durationFrames": 164
+        },
+        {
+          "cueId": "S02-C02",
+          "startFrame": 182,
+          "durationFrames": 558
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "frames": 750,
+      "cues": [
+        {
+          "cueId": "S03-C01",
+          "startFrame": 10,
+          "durationFrames": 730
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "frames": 900,
+      "cues": [
+        {
+          "cueId": "S04-C01",
+          "startFrame": 16,
+          "durationFrames": 234
+        },
+        {
+          "cueId": "S04-C02",
+          "startFrame": 260,
+          "durationFrames": 175
+        },
+        {
+          "cueId": "S04-C03",
+          "startFrame": 451,
+          "durationFrames": 433
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "frames": 1500,
+      "cues": [
+        {
+          "cueId": "S05-C01",
+          "startFrame": 20,
+          "durationFrames": 407
+        },
+        {
+          "cueId": "S05-C02",
+          "startFrame": 600,
+          "durationFrames": 231
+        },
+        {
+          "cueId": "S05-C03",
+          "startFrame": 1050,
+          "durationFrames": 347
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "frames": 750,
+      "cues": [
+        {
+          "cueId": "S06-C01",
+          "startFrame": 36,
+          "durationFrames": 332
+        },
+        {
+          "cueId": "S06-C02",
+          "startFrame": 384,
+          "durationFrames": 346
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "frames": 750,
+      "cues": [
+        {
+          "cueId": "S07-C01",
+          "startFrame": 14,
+          "durationFrames": 360
+        },
+        {
+          "cueId": "S07-C02",
+          "startFrame": 386,
+          "durationFrames": 336
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "frames": 750,
+      "cues": [
+        {
+          "cueId": "S08-C01",
+          "startFrame": 12,
+          "durationFrames": 610
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "frames": 900,
+      "cues": [
+        {
+          "cueId": "S09-C01",
+          "startFrame": 20,
+          "durationFrames": 820
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "frames": 900,
+      "cues": [
+        {
+          "cueId": "S10-C01",
+          "startFrame": 24,
+          "durationFrames": 760
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "frames": 750,
+      "cues": [
+        {
+          "cueId": "S11-C01",
+          "startFrame": 14,
+          "durationFrames": 700
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "frames": 600,
+      "cues": [
+        {
+          "cueId": "S12-C01",
+          "startFrame": 12,
+          "durationFrames": 243
+        },
+        {
+          "cueId": "S12-C02",
+          "startFrame": 263,
+          "durationFrames": 302
+        }
+      ]
+    }
+  ],
+  "silencios": [
+    {
+      "escena": "S01",
+      "tipo": "entrada",
+      "ticks": 1000000
+    },
+    {
+      "escena": "S01→S02",
+      "tipo": "corte",
+      "ticks": 7200000
+    },
+    {
+      "escena": "S02",
+      "tipo": "entre cues",
+      "ticks": 1600000
+    },
+    {
+      "escena": "S02→S03",
+      "tipo": "corte",
+      "ticks": 13640000
+    },
+    {
+      "escena": "S03→S04",
+      "tipo": "corte",
+      "ticks": 10080000
+    },
+    {
+      "escena": "S04",
+      "tipo": "entre cues",
+      "ticks": 2080000
+    },
+    {
+      "escena": "S04",
+      "tipo": "entre cues",
+      "ticks": 5420000
+    },
+    {
+      "escena": "S04→S05",
+      "tipo": "corte",
+      "ticks": 12100000
+    },
+    {
+      "escena": "S05",
+      "tipo": "entre cues",
+      "ticks": 18400000
+    },
+    {
+      "escena": "S05",
+      "tipo": "entre cues",
+      "ticks": 22680000
+    },
+    {
+      "escena": "S05→S06",
+      "tipo": "corte",
+      "ticks": 15000000
+    },
+    {
+      "escena": "S06",
+      "tipo": "entre cues",
+      "ticks": 10080000
+    },
+    {
+      "escena": "S06→S07",
+      "tipo": "corte",
+      "ticks": 11600000
+    },
+    {
+      "escena": "S07",
+      "tipo": "entre cues",
+      "ticks": 8640000
+    },
+    {
+      "escena": "S07→S08",
+      "tipo": "corte",
+      "ticks": 12400000
+    },
+    {
+      "escena": "S08→S09",
+      "tipo": "corte",
+      "ticks": 24200000
+    },
+    {
+      "escena": "S09→S10",
+      "tipo": "corte",
+      "ticks": 27040000
+    },
+    {
+      "escena": "S10→S11",
+      "tipo": "corte",
+      "ticks": 30680000
+    },
+    {
+      "escena": "S11→S12",
+      "tipo": "corte",
+      "ticks": 22240000
+    },
+    {
+      "escena": "S12",
+      "tipo": "entre cues",
+      "ticks": 1820000
+    },
+    {
+      "escena": "S12",
+      "tipo": "cola",
+      "ticks": 4582000
+    }
+  ]
+}

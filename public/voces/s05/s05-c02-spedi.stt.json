@@ -1,0 +1,230 @@
+{
+  "audio_duration_secs": 7.6,
+  "language_code": "spa",
+  "language_probability": 1,
+  "text": "Yo soy Speedy, una pequeña EEPROM del módulo de memoria. Entrego datos sobre tamaño y velocidad",
+  "transcription_id": "Npq2m9yszHd797mvvpj0",
+  "words": [
+    {
+      "end": 0.2,
+      "logprob": -0.00005924526340095326,
+      "start": 0.12,
+      "text": "Yo",
+      "type": "word"
+    },
+    {
+      "end": 0.32,
+      "logprob": -0.000003099436753473128,
+      "start": 0.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 0.52,
+      "logprob": -0.000003099436753473128,
+      "start": 0.32,
+      "text": "soy",
+      "type": "word"
+    },
+    {
+      "end": 0.76,
+      "logprob": -0.3839750289916992,
+      "start": 0.52,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.16,
+      "logprob": -0.32922958640015815,
+      "start": 0.76,
+      "text": "Speedy,",
+      "type": "word"
+    },
+    {
+      "end": 1.6,
+      "logprob": -0.000003695481154863955,
+      "start": 1.16,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 1.74,
+      "logprob": -0.000003695481154863955,
+      "start": 1.6,
+      "text": "una",
+      "type": "word"
+    },
+    {
+      "end": 1.82,
+      "logprob": -0.000028490614567999728,
+      "start": 1.74,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 2.42,
+      "logprob": -0.000028490614567999728,
+      "start": 1.82,
+      "text": "pequeña",
+      "type": "word"
+    },
+    {
+      "end": 2.48,
+      "logprob": -0.0740494653582573,
+      "start": 2.42,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.18,
+      "logprob": -0.024705407149061404,
+      "start": 2.48,
+      "text": "EEPROM",
+      "type": "word"
+    },
+    {
+      "end": 3.24,
+      "logprob": -3.576278118089249e-7,
+      "start": 3.18,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.36,
+      "logprob": -3.576278118089249e-7,
+      "start": 3.24,
+      "text": "del",
+      "type": "word"
+    },
+    {
+      "end": 3.48,
+      "logprob": -0.000008106198947643861,
+      "start": 3.36,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.82,
+      "logprob": -0.000008106198947643861,
+      "start": 3.48,
+      "text": "módulo",
+      "type": "word"
+    },
+    {
+      "end": 3.88,
+      "logprob": -2.384185506798531e-7,
+      "start": 3.82,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 3.94,
+      "logprob": -2.384185506798531e-7,
+      "start": 3.88,
+      "text": "de",
+      "type": "word"
+    },
+    {
+      "end": 4,
+      "logprob": -0.00002729855441430118,
+      "start": 3.94,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 4.48,
+      "logprob": -0.000025987281105699367,
+      "start": 4,
+      "text": "memoria.",
+      "type": "word"
+    },
+    {
+      "end": 4.48,
+      "logprob": -0.0018158152233809233,
+      "start": 4.48,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.2,
+      "logprob": -0.0012972492923251724,
+      "start": 4.86,
+      "text": "Entrego",
+      "type": "word"
+    },
+    {
+      "end": 5.26,
+      "logprob": -0.000003099436753473128,
+      "start": 5.2,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.64,
+      "logprob": -0.000003099436753473128,
+      "start": 5.26,
+      "text": "datos",
+      "type": "word"
+    },
+    {
+      "end": 5.7,
+      "logprob": -1.1920928244535389e-7,
+      "start": 5.64,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 5.92,
+      "logprob": -1.1920928244535389e-7,
+      "start": 5.7,
+      "text": "sobre",
+      "type": "word"
+    },
+    {
+      "end": 6.02,
+      "logprob": -0.000013589766240329482,
+      "start": 5.92,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.62,
+      "logprob": -0.000013589766240329482,
+      "start": 6.02,
+      "text": "tamaño",
+      "type": "word"
+    },
+    {
+      "end": 6.68,
+      "logprob": 0,
+      "start": 6.62,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 6.7,
+      "logprob": 0,
+      "start": 6.68,
+      "text": "y",
+      "type": "word"
+    },
+    {
+      "end": 6.78,
+      "logprob": -0.00001847726889536716,
+      "start": 6.7,
+      "text": " ",
+      "type": "spacing"
+    },
+    {
+      "end": 7.44,
+      "logprob": -0.00001847726889536716,
+      "start": 6.78,
+      "text": "velocidad",
+      "type": "word"
+    }
+  ],
+  "referencia": "Yo soy Spedi, una pequeña e e prom del módulo de memoria. Entrego datos sobre tamaño y velocidad.",
+  "errores": 4,
+  "palabras": 18,
+  "wer": 0.2222222222222222
+}

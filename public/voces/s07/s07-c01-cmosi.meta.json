@@ -1,0 +1,16 @@
+{
+  "cueId": "S07-C01",
+  "mascotId": "cmosi",
+  "voiceId": "cIBxLwfshLYhRB9lCXEg",
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "hash": "f0c04c8a18f5c01b2b553237c2834adbe4ed41c4eca395a266bde513c5f9cd50",
+  "chars": 159,
+  "durationMs": 9760,
+  "fecha": "2026-10-18T14:37:54.115Z",
+  "cliVersion": "elevenlabs 1.6.1",
+  "version": 1
+}
